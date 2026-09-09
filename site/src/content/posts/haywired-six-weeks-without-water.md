@@ -6,59 +6,85 @@ category: infrastructure
 videoId: g2595F_iCFA
 videoTitle: "California's Most Dangerous Fault Isn't Overdue — USGS Said Something Worse"
 sources:
-  - label: "Source video: the HayWired water discussion and pipe engineering chapter"
+  - label: "Critical Latitude — Hayward Fault and the HayWired scenario"
     url: https://www.youtube.com/watch?v=g2595F_iCFA
-  - label: "Gwen's references: USGS HayWired material and Alameda County Water District pipe work"
-    url: https://tinyurl.com/critical26
+  - label: "Brocher et al., USGS Fact Sheet 2018-3052 — The Hayward Fault and the 1868 earthquake"
+    url: https://pubs.usgs.gov/publication/fs20183052
+  - label: "UC Berkeley Seismology Lab — Hayward Fault hazards and Memorial Stadium"
+    url: https://earthquakes.berkeley.edu/hayward/hayward_hazards.html
+  - label: "USGS Fact Sheet 2018-3016 — The HayWired earthquake scenario: We can outsmart disaster"
+    url: https://pubs.usgs.gov/publication/fs20183016
+  - label: "USGS Scientific Investigations Report 2017-5013, volume 2 — The HayWired Earthquake Scenario: Engineering Implications"
+    url: https://pubs.usgs.gov/publication/sir20175013v2
+  - label: "Alameda County Water District — Alvarado-Niles Pipeline seismic improvements"
+    url: https://www.acwd.org/594/Alvarado-Niles-Pipeline-Seismic-Improvem
+  - label: "Earthquake Engineering Research Institute — EBMUD seismic pipeline and Claremont Tunnel case study"
+    url: https://mitigation.eeri.org/files/resources-for-success/00023.pdf
 tags: [HayWired, water, infrastructure, East Bay]
 draft: false
 ---
-The earthquake is the beginning of the HayWired scenario, not the end of the story. Gwen's Hayward Fault investigation includes a consequence that reaches deep into ordinary life: East Bay neighborhoods without water for six weeks. A person can understand the significance of that sentence without imagining a damaged skyline.
+Six weeks without water. That is the HayWired number I want to spend time with, because it changes the shape of the earthquake story. The shaking lasts seconds. The consequences for a water system can keep reaching people long after the television cameras have moved on.
 
-Water belongs to routines that are usually too familiar to list. The value of the scenario is that it asks people and institutions to examine those dependencies before treating recovery as a single moment when the shaking has stopped. It also requires care: the water figure is a scenario result, not a forecast for a particular address.
+In the USGS scenario, East Bay water service takes about six weeks to recover on average, and some customers could wait as long as six months. Those are modeled restoration times following a hypothetical magnitude 7.0 earthquake on the Hayward Fault. They are not a utility's promise about the next earthquake or a prediction for every tap.
 
-## Keep the starting assumptions attached
+The earthquake begins beneath Oakland in the scenario and ruptures roughly 52 miles of fault. The USGS published the summary in 2018 as *The HayWired earthquake scenario — We can outsmart disaster*, with the technical work set out in its scientific investigation volumes.
 
-The description identifies a USGS HayWired scenario beginning with a magnitude 7.0 earthquake beneath Oakland. It reports projected losses, fires, and service disruption under that framing. The article does not claim that the same consequences are inevitable in a future event.
+I keep coming back to the water because a home can remain standing and still stop functioning as a home. And because there is already a response buried underneath the fault: pipe designed to move when the surrounding ground moves. Following those two facts together gives us something more useful than a frightening number alone. It shows what the modeled interruption involves and where engineering can change it.
 
-The distinction is especially necessary for the six-week water statement. It applies to neighborhoods as described in the scenario summary. It does not mean that every customer would lose service for the same duration, and the available description does not provide a household restoration schedule.
+## A moving fault cuts across an ordinary network
 
-Before using the figure in a local plan, follow the HayWired material linked in the video's source document. The assumptions and geographic detail matter more than repeating the duration alone. The number is a way into the planning problem, not a substitute for the source.
+The Hayward Fault does not wait for a large earthquake to move at the surface. It creeps by about a fifth of an inch, roughly 5 millimeters, each year. That is the movement that bends curbs and damages structures built across its trace.
 
-## Translate an outage into dependencies
+Brocher and colleagues' 2018 USGS fact sheet describes more than 300 buildings and structures sitting directly on that trace. Berkeley's California Memorial Stadium is one of the visible examples. A water main crossing the same boundary has to confront the same basic geometry: the ground on one side moves relative to the ground on the other.
 
-Thinking through a disruption can start with questions. Which daily tasks require water? Which activities can a household change, and which depend on a functioning service elsewhere? Who in the household would need help adapting a routine?
+The slow movement is only part of the demand. Creep is concentrated in the upper 3 miles, about 5 kilometers. Below that, locked sections accumulate strain. Creep and small earthquakes accommodate about one third of the fault's total long-term movement, leaving much of it to be accommodated in large events.
 
-These questions are an exercise prompted by the scenario. They are not a new survey of East Bay households or a claim about what every family will experience. Their purpose is to make a service dependency visible enough to discuss.
+A pipe therefore has two different kinds of movement to handle: the gradual offset that is already happening and the larger displacement possible during an earthquake. A line can look unremarkable from the street while crossing an active boundary underground.
 
-The same approach works for an organization. A workplace or care provider can ask which activities rely on an outside supply and which official instructions would govern its response. The scenario provides a reason to examine the question, while the organization must determine its own obligations and arrangements.
+That is why the location of a crossing matters. This is a known fault with a documented rupture history. Engineers do not need to predict its next date to recognize a point where ordinary rigid pipe is vulnerable.
 
-## Do not turn a scenario into a shopping quantity
+## The outage changes the displacement count
 
-A duration of disrupted service does not, by itself, tell a household what quantity of supplies to buy. The video description does not provide a universal water-storage prescription, and this article does not derive one from the six-week figure.
+The scenario estimates about 77,000 households displaced by physical damage to buildings alone. Add utility outages and that estimate rises to as many as 152,000 households, roughly 411,000 people in the model's population accounting.
 
-That would confuse a modeled service consequence with personal guidance. A household needs current official preparedness information and advice appropriate to its circumstances. Medical or equipment needs should be discussed with the relevant professional rather than inferred from an earthquake scenario.
+The extra households are easy to miss if we imagine displacement only as people leaving collapsed buildings. A building may stand while the services needed to occupy it are interrupted. Utilities are part of habitability, and a regional outage reaches beyond the street where a pipe visibly breaks.
 
-The useful task here is to identify unanswered questions: the local utility's emergency information, the household's access needs, and where current notices would be published. A list of questions can expose a gap in a plan without pretending that an article can resolve the entire gap.
+The USGS figures are tied to the scenario's assumptions and demographic data. They are not an updated census of people who will need accommodation after an actual earthquake. Still, the difference between the two totals identifies something concrete: infrastructure damage can substantially enlarge the housing problem.
 
-## See the connection between public systems
+The same scenario puts property damage and direct business interruption losses above $82 billion in 2016 dollars. That amount should retain its price year. Turning it into a current estimate without adjustment would make it appear more precise than it is.
 
-Gwen's description also reports more than 400 separate fires within the HayWired scenario. The appearance of fire and water in the same account is a reason to examine the source's treatment of connected services. This article does not add an estimate of firefighting capacity or calculate a new consequence.
+For a resident, the immediate question becomes how long ordinary routines remain possible. Water is needed after the first night and after the initial emergency supplies are used. A six-week regional disruption makes restoration, temporary support and usable housing part of the same planning problem.
 
-Infrastructure reporting becomes clearer when it follows the systems that meet at a household. A road, utility, and emergency service each have their own operating responsibilities. Asking about their connections is more useful than assuming that the condition of a building describes the whole recovery process.
+## Fire and rescue need the damaged systems too
 
-The investigation's chapter order supports that broader view. It moves from a physical fault and its historical record through modeled consequences, then ends with a piece of engineering intended to address the fault crossing.
+HayWired includes more than 400 fires associated with gas and electrical damage during and after the earthquake. Those fires occur while the water network is also dealing with damage. A system people use quietly every morning becomes part of an emergency response under unusual pressure.
 
-## Follow the pipe chapter back to its source
+There are other simultaneous demands. The scenario estimates more than 2,500 people needing rescue from collapsed buildings and more than 22,000 needing rescue from stalled elevators. Power failure can stop an elevator between floors even when the surrounding building has not collapsed.
 
-The final chapter concerns a pipe built to survive the fault problem. The description identifies Alameda County Water District pipe work among the linked references. It does not reproduce the design, its test criteria, or its limitations.
+That second number surprised me. It describes a large rescue workload without the visual damage that usually defines an earthquake in our heads. Crews have to reach people, respond to fires and work around a disrupted city at the same time.
 
-Those details should remain with the engineering source. A named project can demonstrate that the problem is being addressed without proving that every part of a network will operate normally after an earthquake. Treating one example as a system-wide guarantee would exceed the evidence supplied here.
+The USGS technical volume *The HayWired Earthquake Scenario — Engineering Implications* is the appropriate source for these interacting consequences. The numbers come from modeling a specified earthquake and the systems exposed to it. They identify demands that preparation can reduce; they do not establish a fixed sequence every future earthquake must follow.
 
-The chapter is still a useful ending. It shows why reporting on a fault can lead to questions about how a public system is designed, maintained, and explained to the people who use it.
+That is also why a water estimate cannot be read in isolation. The work occurs inside a broader emergency, with transport, power and personnel under strain. A broken main is one physical problem. Restoring service across the affected network is a larger operational task.
 
-## Give the household plan a place to start
+## The pipe that was built to slide
 
-Begin with the local utility's published emergency information and the questions your household still needs answered. Record where updates appear and discuss the people who would need assistance understanding or acting on them. Use current official guidance for the practical details.
+Alameda County Water District's Alvarado-Niles Pipeline seismic improvements take a direct approach to a fault crossing. The district replaced rigid pipe with a system intended to accommodate fault offset and creep while continuing to carry water.
 
-HayWired is valuable because it makes a disruption imaginable without supplying a date. The six-week figure draws attention to the long tail of an earthquake scenario. The next step is to examine the systems behind an ordinary day and the planning work that belongs to households, providers, and public agencies.
+Think about the difference in the requirement. Ordinary pipe has to contain water under operating conditions. At this crossing, it must also tolerate the ground pulling parts of the line into new positions. Movement is something the design has to allow for, because preventing the fault from moving is not an available option.
+
+The district's project record documents that intervention. An Earthquake Engineering Research Institute case study also describes East Bay Municipal Utility District seismic work, including the Claremont Tunnel and accommodation of fault offset and creep. These are particular engineered crossings and facilities, each with its own design.
+
+I find those examples useful because they move the discussion from “the water might fail” to “this connection has a known problem that people can work on.” They also keep the scale honest. One improved crossing does not make every pipe, pump, power supply and connection in the East Bay immune to damage.
+
+The six-week figure therefore remains a planning scenario, not a verdict against engineering. The purpose of identifying vulnerable systems is to improve what happens when they are tested. A retrofit earns its value at the place it protects, even while other parts of the network still need work.
+
+## What people asked
+
+**Should the water figure be six months instead of six weeks?** Readers questioned the shorter number and pointed to other exposed infrastructure. The scenario contains both figures: roughly six weeks as an average East Bay disruption, with some customers facing as long as six months. An average conceals differences between service areas. Neither number should be presented as the restoration date for an individual household.
+
+**Can researchers really say what the damage and rescue totals will be?** This objection came up alongside discussion of whether stronger buildings and infrastructure could reduce losses. The totals are estimates for a defined scenario, using assumptions about shaking, exposure and system performance. They are useful for comparing demands and potential improvements. They are not a forecast of an exact death toll or a guarantee that every modeled outage will occur.
+
+A household's stored water matters, but so does the part of the plan outside the household's control. The local utility's emergency information, restoration communications and seismic improvement work all belong in that picture. Knowing which agency supplies the address is more useful than applying one regional number to every neighborhood.
+
+The detail I want to leave with is still the pipe under the fault. Someone has already designed a connection around the fact that the ground will move. That is the kind of work that can change how an earthquake feels six weeks after the shaking stops.

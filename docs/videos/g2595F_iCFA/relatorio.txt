@@ -1,0 +1,44 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+California's Most Dangerous Fault Isn't Overdue — USGS Said Something Worse
+Critical Latitude  -  139,9 mil views  -  2,4 mil likes (1.69%)  -  14:25  -  20260831
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  There's a curb in the city of Hayward, California that doesn't line up anymore. Somebody poured it straight. It isn't straight now. It's bent and it gets a little more bent every year. And the reason is that the Hayward fault runs directly underneath it. Go a few miles north and that same fault runs under the University of California, Berkeley football stadium. Not nearby, right under it. The stadium's been retrofitted to survive from being torn in half. The USGS counts more than 300 buildings and structures sitting on top of the trace of this thing. And the fault is moving right now, about a fifth of an inch a year. Slow enough that you'd need a tape
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  There's a curb in the city of Hayward, California that doesn't line up anymore. Somebody poured it straight. I
+  1:47  that ran the biggest disaster simulation ever built for the Bay Area. The third is a paper in the geoysical re
+  3:35  and then one day it all releases in a single event. The hayward doesn't do that or it doesn't do only that. It
+  5:23  die. 18,000 more are hurt badly enough to be counted from buildings and structures falling. Property damage an
+  7:11  Berkeley, led by a seismologist named RD Rogers, modeled a magnitude 7 on this fault at a level of detail nobo
+  8:59  across the fault down through the dirt and then they read the wall of the trench like a stack of paper. Each l
+  10:46  more work than the average number is. It means the true interval on this fault can land anywhere inside a spre
+  12:34  schedule. Overdue smuggles in a calendar that doesn't exist. And once you believe in the calendar, you also be
+
+(este video nao expoe a curva de retencao - normal em video novo ou com poucas views)
+
+COMENTARIOS MAIS CURTIDOS (141 do publico):
+  [     81 likes] Grew up in Sonoma County. Experienced concrete warehouse floors that looked like waves during Loma Prieta. But nothing is scarier than getting woken u
+  [     57 likes] I’m not the type to leave comments like this, but the silence around Dorian Calden has been bothering me for months. The guy was a 33rd degree Mason w
+  [     41 likes] I was standing in the parking lot of Clarks Auto Parts & Machine Shop in Monte Vista California when the Loma Prieta quake happened - as it started yo
+  [     29 likes] I'm in my 50's and spent most of my life in the Bay Area.  Grew up in San "rockin" Ramon with our fair share of quakes.  Was working in Danville durin
+  [     23 likes] A really good video. No sensationalism, no click bait, just a calm delivery. First video I see from this channel, and I subscribed.
+  [     22 likes] I am in the UK, near the English Channel (think white cliffs of Dover looking over to France) .. since I moved here 25 years ago we have had 2 earthqu
+  [     18 likes] One downside to the longer periods of time between quakes is the longer build up usually means stronger magnitude when it does snap.
+  [     17 likes] I really like this presenter and she did a great job explaining everything.
+  [     16 likes] That figure of 40 seconds should really be considered. In any quake, it really won't be so much the severity of the shaking that will determine the le
+  [     15 likes] Whats with the AI images? These are real places, even if you dont have a photo from that time period Im sure you could find a modern one, or one from 
+  [     10 likes] Haywired Fault?
+  [     10 likes] PLEASE don't use AI, especially for graphic creation
+  [      9 likes] Even before Gwen said, at 9:45, "Take those six numbers and do the subtraction," I had taken those six numbers, done the subtractions, discarded the h
+  [      9 likes] I imagine you're working on a Nepal video.  Others have been mildly confusing, so I eagerly await your version.
+  [      8 likes] I did testing for shake alert in 2021, since then I've gotten notices 15-35 seconds before to take cover. Every year it's getting better
+  [      8 likes] Went to the Cal Bears game several times over the years and I've always stopped by where you can see the fault creep. Fascinating and I hope I'm not i
+  [      8 likes] 11:42 Not quite, it's actually slightly worse odds. 1 in 3 is a 33.3% chance. Probability of losing exactly 2 in 3 coin flips is 37.5%. Probability of
+  [      7 likes] Having supplies outside of the house away from the structure is ideal if you're fortunate enough to have that circumstances. Personally I have a trail
+  [      7 likes] Was born in El Salvador.  Locally is called the hammock land.  Came to Los Angeles as a preteen already experienced in strong quakes.  Experienced the
+  [      7 likes] I live  in Santa Monica California (Los Angeles County) used to live in San Francisco. My house is new and built to current earthquake codes for Calif
+
+JSON completo (curva inteira, 150 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\g2595F_iCFA\_motor\video-g2595f-icfa.json

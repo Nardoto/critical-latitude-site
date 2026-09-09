@@ -1,0 +1,137 @@
+# Fontes — The New El Niño Is Breaking A 155-Year Record — Here Is Why
+
+ID: xeWgmI_1pI4  
+URL: https://www.youtube.com/watch?v=xeWgmI_1pI4  
+Duração: 28:45  
+Data: 2026-08-13
+
+## Documento 1
+
+Link da descrição: https://tinyurl.com/critical17  
+Destino: https://docs.google.com/document/d/1A4kW1TU-COKTk_8K3Vn0ljpMgI2o5peSfQMd8LljK0M/edit?usp=sharing  
+Exportação: https://docs.google.com/document/d/1A4kW1TU-COKTk_8K3Vn0ljpMgI2o5peSfQMd8LljK0M/export?format=txt  
+Estado: ok  
+Coletado em: 2026-09-09T16:33:48.6135278-03:00
+
+### Texto integral do documento, incluindo suas referências
+
+Sources - The Strongest El Nino In 155 Years
+Sources used to research and fact-check this Critical Latitude video. Educational reference only; nothing here is a prediction that a specific disaster is imminent in a specific place.
+The forecast and the record
+NOAA Climate Prediction Center, ENSO Diagnostic Discussion - the July ninth discussion, the 81 percent very-strong odds for October-November-December and the 97 percent persistence odds into early spring
+https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml
+NOAA Climate Prediction Center, ENSO Evolution, Status and Forecasts deck - the Nino 3.4 weekly departures, the half-degree threshold definition, the probabilistic strength outlook and the subsurface heat content charts
+https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf
+Zeke Hausfather, The Climate Brink, "The Strongest El Nino Ever" - the 14-model, 667-member consensus, the 3.6C median peak, the 2.69 / 2.73 / 2.75 historical ceiling and the roughly 91 percent record probability
+https://www.theclimatebrink.com/p/the-strongest-el-nino-ever
+NOAA Climate Prediction Center, Relative Oceanic Nino Index - the corrected index that drops the record probability from about 91 percent to about 77 percent
+https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/
+NOAA Climate.gov ENSO Blog, "What is the Relative Oceanic Nino Index?" - why a warming global ocean requires a relative baseline
+https://www.climate.gov/news-features/blogs/enso/what-relative-oceanic-ni%C3%B1o-index
+NOAA Climate.gov, "El Nino and La Nina: Frequently Asked Questions" - the very strong classification and how often events of this size occur
+https://www.climate.gov/news-features/understanding-climate/el-ni%C3%B1o-and-la-ni%C3%B1a-frequently-asked-questions
+The mechanism
+NOAA PMEL, El Nino / La Nina / normal thermocline diagram - the three-panel schematic of trade winds, the warm pool and upwelling
+https://www.pmel.noaa.gov/gtmba/sites/default/files/thumbnails/image/El-Nino-La-Nina-Normal2.jpg
+NOAA Climate.gov ENSO Blog, "Kelvin wave primer" - how a downwelling Kelvin wave deepens the eastern Pacific thermocline
+https://www.climate.gov/news-features/blogs/enso/kelvin-wave-primer
+NOAA Climate.gov ENSO Blog, "ENSO and the tropical Pacific thermocline" - the thermocline, upwelling and the ocean-atmosphere feedback loop
+https://www.climate.gov/news-features/blogs/enso/enso-and-tropical-pacific-thermocline
+NOAA Climate.gov ENSO Blog, "The Walker circulation: ENSO's atmospheric buddy" - why weakened trade winds and shifted convection reinforce each other
+https://www.climate.gov/news-features/blogs/enso/walker-circulation-ensos-atmospheric-buddy
+NOAA PMEL, TAO/TRITON mooring array status - the buoy line across the equatorial Pacific that reports continuously
+https://www.pmel.noaa.gov/tao/global/status/images/buoystat-taotriton.png
+The hurricane season, both basins
+NOAA, "NOAA predicts below-normal 2026 Atlantic hurricane season" - the 55 / 35 / 10 percent split and the 8-14 named storms, 3-6 hurricanes, 1-3 major hurricanes range
+https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season
+Colorado State University, Tropical Weather and Climate Research - the seasonal Atlantic forecast and its July revision as El Nino conditions were confirmed
+https://tropical.colostate.edu/forecasting.html
+NOAA Climate Prediction Center, Global Tropics Hazards Outlook - the late-July call that tropical cyclone formation was unlikely over the Caribbean and central Atlantic
+https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php
+NOAA Climate.gov ENSO Blog, "El Nino and the Atlantic hurricane season" - the wind shear teleconnection that takes Atlantic hurricanes apart
+https://www.climate.gov/news-features/blogs/enso/el-ni%C3%B1o-and-atlantic-hurricane-season
+NOAA AOML, "How does El Nino impact Atlantic hurricane season" - the physical basis for fewer Atlantic and more eastern Pacific systems
+https://www.aoml.noaa.gov/how-does-el-nino-impact-atlantic-hurricane-season/
+NOAA National Hurricane Center, eastern Pacific - the active systems behind the record early pace in that basin
+https://www.nhc.noaa.gov/?epac
+The United States winter
+NOAA Climate.gov ENSO Blog, "El Nino and La Nina impacts on the U.S. winter" - the subtropical jet, the southward-displaced storm track and the wet-south / warm-north pattern
+https://www.climate.gov/news-features/blogs/enso/el-ni%C3%B1o-and-la-ni%C3%B1a-impacts-us-winter
+NOAA Climate Prediction Center, seasonal precipitation and temperature outlook - the official three-month outlook maps
+https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php
+Changnon, "Impacts of 1997-98 El Nino-Generated Weather in the United States," Bulletin of the American Meteorological Society - the 189 lives lost nationally, a large share in southern tornadoes
+https://journals.ametsoc.org/view/journals/bams/80/9/1520-0477_1999_080_1819_ioenog_2_0_co_2.xml
+NOAA NCEI, "The El Nino Winter of '97-'98" - the national storm and flood damage assessment for that winter
+https://www.ncei.noaa.gov/monitoring-content/billions/reports/19971201-19980228-severe-storm/tr9802.pdf
+USGS Fact Sheet 175-99, "El Nino Sea-Level Rise Wreaks Havoc in California's San Francisco Bay Region" - the roughly 850 million dollars in statewide flood and storm damage, the Bay Area landslide losses, the red-tagged coastal homes and the starved sea lions
+https://pubs.usgs.gov/fs/1999/0175/report.pdf
+Global impacts
+FAO and WFP, El Nino Joint Anticipatory Action Appeal, June 2026 - March 2027 - the 202 million dollar request to reach 8.8 million people across 22 countries, and the agencies' first joint anticipatory appeal
+https://www.wfp.org/publications/el-nino-fao-wfp-joint-anticipatory-action-appeal-june-2026-march-2027
+WFP newsroom, "Bracing for El Nino: FAO and WFP launch joint appeal" - the announcement, the country list and the anticipatory-action measures
+https://www.wfp.org/news/bracing-el-nino-fao-and-wfp-launch-joint-appeal-protect-88-million-people-extreme-weather
+World Resources Institute, "2026 Super El Nino Impacts, Explained" - the global drought and wet-anomaly map, the maize and rice sensitivity, the Indian monsoon and southern Africa cereal signals, and the lagged Amazon fire relationship
+https://www.wri.org/insights/super-el-nino-impacts-explained
+FAO, "El Nino is coming. Here is where the risks to agriculture are highest" - the agricultural drought risk mapping across Central America, South Asia and Southeast Asia
+https://www.fao.org/newsroom/detail/el-nino-is-coming-here-is-where-the-risks-are-highest/en
+NOAA Coral Reef Watch, ENSO current conditions and bleaching outlook - the link between El Nino heat stress and global bleaching episodes
+https://coralreefwatch.noaa.gov/satellite/analyses_guidance/enso_current_conditions.php
+NOAA Climate.gov ENSO Blog, "How ENSO leads to a cascade of global impacts" - the teleconnection chain from the tropical Pacific outward
+https://www.climate.gov/news-features/blogs/enso/how-enso-leads-cascade-global-impacts
+The honest part: forecast limits
+NOAA Climate.gov ENSO Blog, "The spring predictability barrier: we'd rather be fishing" - the measurable collapse in forecast skill during Northern Hemisphere spring
+https://www.climate.gov/news-features/blogs/enso/spring-predictability-barrier-we%E2%80%99d-rather-be-fishing
+International Research Institute for Climate and Society, Columbia University - the IRI/CPC ENSO forecast plume and mid-July model consensus
+https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+ECMWF science blog, "How confident should we be in a prediction of El Nino?" - Tim Stockdale on statistical overconfidence in individual forecast systems and the March 2017 failure
+https://www.ecmwf.int/en/about/media-centre/science-blog/2026/el-nino-2026
+NOAA Climate.gov ENSO Blog, "Why are there so many ENSO indexes instead of just one?" - why the choice of index changes the answer
+https://www.climate.gov/news-features/blogs/enso/why-are-there-so-many-enso-indexes-instead-just-one
+NOAA Climate Prediction Center, ENSO page and update schedule - the second-Thursday monthly diagnostic discussion readers can follow themselves
+https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/enso.shtml
+What to do about it
+FEMA National Flood Insurance Program, FloodSmart policy terms - flood damage is excluded from standard homeowners policies and new policies carry a typical 30-day waiting period
+https://www.floodsmart.gov/policy-terms
+USGS Landslide Hazards Program, postfire debris-flow hazard assessments - why burn scars shed heavy rain and where the hazard maps live
+https://www.usgs.gov/programs/landslide-hazards/science/postfire-debris-flow-hazards
+
+## Todas as URLs das fontes
+
+- https://tinyurl.com/critical17
+- https://docs.google.com/document/d/1A4kW1TU-COKTk_8K3Vn0ljpMgI2o5peSfQMd8LljK0M/edit?usp=sharing
+- https://docs.google.com/document/d/1A4kW1TU-COKTk_8K3Vn0ljpMgI2o5peSfQMd8LljK0M/export?format=txt
+- https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml
+- https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf
+- https://www.theclimatebrink.com/p/the-strongest-el-nino-ever
+- https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/
+- https://www.climate.gov/news-features/blogs/enso/what-relative-oceanic-ni%C3%B1o-index
+- https://www.climate.gov/news-features/understanding-climate/el-ni%C3%B1o-and-la-ni%C3%B1a-frequently-asked-questions
+- https://www.pmel.noaa.gov/gtmba/sites/default/files/thumbnails/image/El-Nino-La-Nina-Normal2.jpg
+- https://www.climate.gov/news-features/blogs/enso/kelvin-wave-primer
+- https://www.climate.gov/news-features/blogs/enso/enso-and-tropical-pacific-thermocline
+- https://www.climate.gov/news-features/blogs/enso/walker-circulation-ensos-atmospheric-buddy
+- https://www.pmel.noaa.gov/tao/global/status/images/buoystat-taotriton.png
+- https://www.noaa.gov/news-release/noaa-predicts-below-normal-2026-atlantic-hurricane-season
+- https://tropical.colostate.edu/forecasting.html
+- https://www.cpc.ncep.noaa.gov/products/precip/CWlink/ghazards/index.php
+- https://www.climate.gov/news-features/blogs/enso/el-ni%C3%B1o-and-atlantic-hurricane-season
+- https://www.aoml.noaa.gov/how-does-el-nino-impact-atlantic-hurricane-season/
+- https://www.nhc.noaa.gov/?epac
+- https://www.climate.gov/news-features/blogs/enso/el-ni%C3%B1o-and-la-ni%C3%B1a-impacts-us-winter
+- https://www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php
+- https://journals.ametsoc.org/view/journals/bams/80/9/1520-0477_1999_080_1819_ioenog_2_0_co_2.xml
+- https://www.ncei.noaa.gov/monitoring-content/billions/reports/19971201-19980228-severe-storm/tr9802.pdf
+- https://pubs.usgs.gov/fs/1999/0175/report.pdf
+- https://www.wfp.org/publications/el-nino-fao-wfp-joint-anticipatory-action-appeal-june-2026-march-2027
+- https://www.wfp.org/news/bracing-el-nino-fao-and-wfp-launch-joint-appeal-protect-88-million-people-extreme-weather
+- https://www.wri.org/insights/super-el-nino-impacts-explained
+- https://www.fao.org/newsroom/detail/el-nino-is-coming-here-is-where-the-risks-are-highest/en
+- https://coralreefwatch.noaa.gov/satellite/analyses_guidance/enso_current_conditions.php
+- https://www.climate.gov/news-features/blogs/enso/how-enso-leads-cascade-global-impacts
+- https://www.climate.gov/news-features/blogs/enso/spring-predictability-barrier-we%E2%80%99d-rather-be-fishing
+- https://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/
+- https://www.ecmwf.int/en/about/media-centre/science-blog/2026/el-nino-2026
+- https://www.climate.gov/news-features/blogs/enso/why-are-there-so-many-enso-indexes-instead-just-one
+- https://www.cpc.ncep.noaa.gov/products/precip/CWlink/MJO/enso.shtml
+- https://www.floodsmart.gov/policy-terms
+- https://www.usgs.gov/programs/landslide-hazards/science/postfire-debris-flow-hazards

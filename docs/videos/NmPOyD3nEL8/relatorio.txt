@@ -1,0 +1,44 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+Scientists Watch 5 Signs Before Mount St. Helens Erupts — Here's How Many Are Happening Now
+Critical Latitude  -  15,7 mil views  -  364 likes (2.32%)  -  20:13  -  20260805
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  Between July 1st and July 26th of this year, the Pacific Northwest Seismic Network located 36 earthquakes underneath Mount St. Helens. The largest was a magnitude 1.9, and the smallest was a magnitude minus 0.3. That's a negative magnitude. Hang on to that number because it turns out to be the most useful one I'll share with you in this whole video. A normal month at this volcano is about 22 located earthquakes. That's the long-term average USGS publishes from Mount St. Helens. So, 36 in 26 days is up, not dramatically, but up. Across those same 26 days, four other things didn't move at all. The ground didn't swell. The gas output didn't change. The alert level stayed on green, and the
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  Between July 1st and July 26th of this year, the Pacific Northwest Seismic Network located 36 earthquakes unde
+  2:31  1986, and again in 2004 through 2008, Mount St. Helens has the best seismic monitoring network of any volcano 
+  5:02  for exactly this reason. Ground inflation or uplift signals rising magma, in their words. Today, that instrume
+  7:34  one is an earthquake. Those earthquakes are the sound of the tank being topped up from underneath. Nothing abo
+  10:05  "Who checks the checkers?" So, here's the actual answer. The catalog holds every earthquake that could be loca
+  12:36  about 8 years old to 12 and right around the Vancouver area. Mount St. Helens came up constantly. The adults i
+  15:08  his name. Now, I want you to read that timeline back against the checklist. March 16th, earthquakes. March 27t
+  17:39  what one looks like. That's the Toutle Valley running west off the mountain, and those shaded channels are the
+
+(este video nao expoe a curva de retencao - normal em video novo ou com poucas views)
+
+COMENTARIOS MAIS CURTIDOS (39 do publico):
+  [      5 likes] I was 11 and remember it really well. My friend was Andy Karr, who was found days later in the bed of his dad's pickup truck. His dad and brother also
+  [      5 likes] I was living in an area with heavy ash fall.  I remember it being as black as a moonless, starless night at noon.   I remember a few hours later the m
+  [      4 likes] I was living here in Toutle. Had to evacuate my home back to my parents home in Castle Rock. I was 23 years old and will never forget that day! I knew
+  [      4 likes] I was living in eugene - was 9yo - only remember the ash falling on everything
+  [      3 likes] I was born 3 years after the eruption of 1980.  However, in the early 2010s I got a chance to go visit.  It’s so beautiful!  I also remember my friend
+  [      3 likes] I was in Montreal. I pre-teen. I  remember the news. Thank you for your content.
+  [      3 likes] We were living about 40 miles SW of the mtn. We lived up in the hills & had an incredible view. It was so surreal. My daughter was 9 & my niece was 12
+  [      2 likes] I was 13, living in Kentucky and was mesmerized watching TV coverage of the eruption.  The old man ended up getting a mason jar full of ash from someo
+  [      2 likes] My red headed daughter was born May 18th 1981. Shes a force to be reckoned with
+  [      2 likes] I was a kid living in Illinois and remember that we had some very light flakes of ash that made their way to us in the days following (we could see th
+  [      2 likes] Yes. I flew into Spokane from CO a couple of days after it blew. I thought it had snowed but it was thick ash and still falling.
+  [      1 likes] Everybody be safe out there God bless❤️🙏🏻❤️
+  [      1 likes] It was supposed to be set off for our graduation but someone trip over the switch a month early! Anyway, we just moved into new place and settling in 
+  [      1 likes] standard characteristics of this Mt, (Lacey Washington state )
+  [      1 likes] The river u keep saying is pronounced TOOTLE TOO Tle lol
+  [      1 likes] ah, love a completely ai written script.
+  [      1 likes] Between July 1st and July 26th of this year? Next year this video will still say this year. Scientific observer is not accurate
+  [      1 likes] THIS VIDEO IS AI GENERATED. SHE IS NOT A REAL PERSON. IGNORE IT
+  [      0 likes] I have a vague memory of my grandma having gone for a helicopter tour to see Mount Saint Helens after the eruption and she brought back brochures and 
+  [      0 likes] I was 20 years old living in Saskatchewan Canada. I remember brushing ash off of my trucks wind shield like it was snow in winter time. It was insane 
+
+JSON completo (curva inteira, 44 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\NmPOyD3nEL8\_motor\video-nmpoyd3nel8.json

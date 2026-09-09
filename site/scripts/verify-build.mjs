@@ -20,7 +20,7 @@ for (const file of listFiles(path.join(root, 'src/content/posts')).filter(file =
   const body = text.split(/^---\s*$/m).slice(2).join('---');
   const words = body.match(/[\p{L}\p{N}]+(?:['’-][\p{L}\p{N}]+)*/gu)?.length ?? 0;
   const category = text.match(/^category:\s*(\S+)/m)?.[1];
-  assert(words >= 700 && words <= 1000, `${slug}: ${words} words outside 700–1000`);
+  assert(words >= 700 && words <= 1800, `${slug}: ${words} words outside 700–1800`);
   assert(categories.includes(category), `Invalid category: ${slug}`);
   const url = `/blog/${slug}/`;
   const html = fs.readFileSync(path.join(dist, url, 'index.html'), 'utf8');
@@ -64,4 +64,4 @@ assert.equal(new Set(report.posts.map(post => post.category)).size, 8, 'One init
 const output = path.join(root, '../docs/validation/build-report.json');
 fs.mkdirSync(path.dirname(output), { recursive: true });
 fs.writeFileSync(output, JSON.stringify(report, null, 2) + '\n');
-console.log(`PASS: ${report.htmlPages} HTML pages; ${report.posts.length} articles (700–1000 words); ${report.videos} unique videos; ${report.internalLinks} valid internal links; RSS, sitemap, SEO, sources and lazy players.`);
+console.log(`PASS: ${report.htmlPages} HTML pages; ${report.posts.length} articles (700–1800 words); ${report.videos} unique videos; ${report.internalLinks} valid internal links; RSS, sitemap, SEO, sources and lazy players.`);

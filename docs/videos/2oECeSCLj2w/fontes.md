@@ -1,0 +1,174 @@
+# Fontes — The Earthquake That Has Already Hit the Northwest 5 Times — And It Isn't the Big One
+
+ID: 2oECeSCLj2w  
+URL: https://www.youtube.com/watch?v=2oECeSCLj2w  
+Duração: 19:43  
+Data: 2026-08-18
+
+## Documento 1
+
+Link da descrição: https://tinyurl.com/critical21  
+Destino: https://docs.google.com/document/d/1btR-v6kCehsJlwGrXln8wBDjt5LNf5yRF1UqD7CX1CQ/edit?usp=sharing  
+Exportação: https://docs.google.com/document/d/1btR-v6kCehsJlwGrXln8wBDjt5LNf5yRF1UqD7CX1CQ/export?format=txt  
+Estado: ok  
+Coletado em: 2026-09-09T16:33:44.3585774-03:00
+
+### Texto integral do documento, incluindo suas referências
+
+Sources — The Earthquake That Has Already Hit the Northwest 5 Times
+The Colombia earthquake of August 10, 2026
+2026 Colombia earthquake — the running summary page, magnitude 7.4 to 7.5 in the department of Chocó, depth, felt area, casualty figures and the departments affected. This page is being updated as the toll moves.
+https://en.wikipedia.org/wiki/2026_Colombia_earthquake
+CNN live coverage from the day of the earthquake.
+https://www.cnn.com/2026/08/10/world/live-news/colombia-earthquake-san-jose-del-palmar
+N.P.R. — magnitude 7.4 rocks western Colombia.
+https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia
+Al Jazeera — Colombia declares a national emergency.
+https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20
+C.N.B.C. — the toll passing 250, with the city-level split including Pereira and Cali.
+https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html
+Seismosoft preliminary engineering report on the August 10, 2026 earthquake.
+https://seismosoft.com/preliminary-report-10-august-2026-earthquake-in-colombia/
+Colombia One — "Why Armenia Suffered Less Damage in the 2026 Earthquake Than in 1999," the direct source for the Pereira and Armenia comparison.
+https://colombiaone.com/2026/08/14/why-armenia-suffered-less-damage-colombias-2026-earthquake-1999/
+The 1999 Armenia earthquake and Colombia's seismic code
+1999 Colombia earthquake — magnitude 6.1, January 25, 1999, the death toll and the damage in Armenia and across the coffee region.
+https://en.wikipedia.org/wiki/1999_Colombia_earthquake
+Earthquake Engineering Research Institute / National Science Foundation reconnaissance report, "Quindío, Colombia Earthquake of January 25, 1999." The building-stock failure analysis: unreinforced adobe and brick masonry, and concrete frames that did not meet seismic design standards.
+https://nehrpsearch.nist.gov/static/files/NSF/PB2000106893.pdf
+World Conference on Earthquake Engineering paper on the January 25, 1999 earthquake in the coffee-growing region.
+https://www.iitk.ac.in/nicee/wcee/article/2807.pdf
+International Strategy for Disaster Reduction — "The Colombian Earthquake of January 1999."
+https://www.eird.org/eng/revista/No14_99/desas3.htm
+Global Earthquake Model — seismic regulations for Colombia, the code lineage from NSR-98 to NSR-10.
+https://www.globalquakemodel.org/seismic-regulations/colombia
+Seismic code evaluation for Colombia, prepared by Guillermo Santana. Covers what NSR-98 changed, including the tighter limits on structural drift.
+https://www.eird.org/cd/acs/English/CodeEval/SpaSpeak/Seismic/COLOMsce.pdf
+ReliefWeb — the FOREC reconstruction fund as a development model.
+https://reliefweb.int/report/colombia/earthquake-recovery-colombia-offers-development-model
+Global Facility for Disaster Reduction and Recovery — Earthquake Recovery Project (Colombia), implementation completion report, with the housing repair and replacement counts.
+https://www.gfdrr.org/sites/default/files/Earthquake%20Recovery%20Project%20(Colombia)%20ICR%20new.pdf
+What a deep intraslab earthquake is
+Pacific Northwest Seismic Network — Deep Earthquakes. The source for the depth range of 30 to 70 kilometres, roughly 20 to 45 miles, for the statement that these are the most common source of damaging shaking in Washington and Oregon, for the roughly thirty-year historical interval, and for the U.S.G.S. estimate of an 85 percent chance of another magnitude 6.5 or greater deep earthquake within 50 years.
+https://pnsn.org/education/pnw-earthquakes/sources/deep
+Pacific Northwest Seismic Network — Frequently Asked Questions.
+https://pnsn.org/education/faq
+Oregon State University open textbook, "Living With Earthquakes In The Pacific Northwest" — the chapter on earthquakes inside the Juan de Fuca plate.
+https://open.oregonstate.education/earthquakes/chapter/earthquakes-in-the-juan-de-fuca-plate/
+The record: 1909, 1939, 1949, 1965, 2001
+Washington State Military Department — "Significant Earthquakes Experienced in Washington Since 1872," the state's own event list.
+https://mil.wa.gov/asset/5ba41f67ab6be
+1949 Olympia earthquake — magnitude 7.1, April 13, 1949 at 11:55 a.m., centred between Olympia and Tacoma, eight dead and at least 64 injured, felt into Oregon, British Columbia, Idaho and Montana.
+https://en.wikipedia.org/wiki/1949_Olympia_earthquake
+HistoryLink — earthquake hits the Puget Sound area on April 13, 1949, including the damage in Chehalis and the deaths of the two boys.
+https://www.historylink.org/file/2063
+K.I.R.O. 7 Seattle — the 75-year retrospective on the 1949 earthquake.
+https://www.kiro7.com/news/local/75-years-ago-71-magnitude-quake-strikes-between-olympia-tacoma/VRX5742DKFCVJISXYG4WXSJJHI/
+1965 Puget Sound earthquake — April 29, 1965 at 8:29 a.m., magnitude 6.5, seven dead.
+https://en.wikipedia.org/wiki/1965_Puget_Sound_earthquake
+HistoryLink — earthquake rattles Western Washington on April 29, 1965.
+https://www.historylink.org/File/1986
+K.I.R.O. 7 Seattle — the 60-year retrospective, including the three deaths from falling debris, one in Pioneer Square and two at the Fisher Flouring Mills on Harbor Island.
+https://www.kiro7.com/news/local/60-years-ago-today-65-magnitude-rocks-puget-sound-45-seconds/I5SQ6OFIFFEI7PS3RKR5CBIPTQ/
+Washington State Military Department — the 50-year mark on the 1965 earthquake.
+https://mil.wa.gov/news/big-1965-earthquake-happened-50-years-ago
+The Nisqually earthquake, February 28, 2001
+Pacific Northwest Seismic Network — the 2001 Nisqually earthquake page.
+https://pnsn.org/education/pnw-earthquakes/notable/nisqually
+P.N.S.N. archived event directory for February 28, 2001, with the recorded depth of 52.4 kilometres.
+https://assets.pnsn.org/notable/WEBDIR_01022818543p/index.html
+2001 Nisqually earthquake — magnitude 6.8, 10:54 a.m., one death, about 400 injured, and the damage range.
+https://en.wikipedia.org/wiki/2001_Nisqually_earthquake
+HistoryLink — the earthquake that jolted Seattle and Puget Sound on February 28, 2001.
+https://www.historylink.org/File/3039
+K.I.N.G. 5 Seattle — the twentieth-anniversary retrospective.
+https://www.king5.com/article/news/history/nisqually-earthquake/20th-anniversary-nisqually-earthquake-western-washington/281-df8b4d26-c842-45dc-a7c9-406167d06fc7
+K.I.R.O. 7 Seattle — the twenty-five-year retrospective.
+https://www.kiro7.com/news/local/25-years-later-nisqually-earthquake-that-rattled-washington/A7WE7EMUWBAM3FYCSHQ5L5BTGE/
+Seattle's unreinforced masonry buildings
+Seattle Department of Construction and Inspections — Unreinforced Masonry Buildings, what and why. The source for the figure of more than 1,100 collapse-hazard buildings on the city's inventory.
+https://www.seattle.gov/sdci/codes/changes-to-code/unreinforced-masonry-buildings
+S.D.C.I. — Unreinforced Masonry Buildings, frequently asked questions. Confirms that the code adopted in fall 2024 supports voluntary retrofits and that a mandatory ordinance does not yet exist.
+https://www.seattle.gov/sdci/codes/changes-to-code/unreinforced-masonry-buildings/frequently-asked-questions
+S.D.C.I. — Unreinforced Masonry Buildings, timeline. The 2021 Seattle Existing Building Code provisions recognising U.R.M. retrofits were adopted on November 15, 2024.
+https://www.seattle.gov/sdci/codes/changes-to-code/unreinforced-masonry-buildings/timeline
+S.D.C.I. — Unreinforced Masonry Buildings, background.
+https://www.seattle.gov/construction-and-inspections/codes/changes-to-code/unreinforced-masonry-buildings/background
+City of Seattle Building Connections — the 2023 working groups established to support a mandatory retrofit ordinance.
+https://buildingconnections.seattle.gov/2023/02/01/building-momentum-to-fix-the-bricks-working-groups-established-to-support-mandatory-unreinforced-masonry-retrofit-ordinance
+K.U.O.W. Seattle — "With no retrofit requirement in Seattle, 1,100 buildings are an earthquake risk."
+https://www.kuow.org/stories/with-no-retrofit-requirment-in-seattle-1-100-buildings-are-an-earthquake-risk
+Portland's unreinforced masonry ordinances and the lawsuit
+City of Portland Bureau of Development Services — update on U.R.M. ordinances 189201 and 189309, the requirements and the owner notifications.
+https://portland.gov/bds/news/2019/1/11/update-about-urm-ordinances-189201-189309-requirements-and-letter-notifications
+Multifamily N.W. — Portland City Council votes to repeal most U.R.M. requirements and create a new work group, October 2019.
+https://www.multifamilynw.org/news/portland-city-council-votes-to-repeal-most-urm-requirements-and-create-new-work-group
+Willamette Week, May 30, 2019 — a federal judge halts enforcement of Portland's requirement to post signs on buildings that could crumble in an earthquake.
+https://www.wweek.com/news/city/2019/05/30/federal-judge-halts-enforcement-of-portlands-requirement-to-post-signs-in-buildings-that-could-crumble-in-an-earthquake/
+K.A.T.U. Portland — the judge's First Amendment reasoning, including his criticism of the accuracy of the city's own U.R.M. database.
+https://katu.com/news/local/judge-finds-1st-amendment-problems-with-portlands-earthquake-sign-ordinance-heres-why
+Rocky Mountain Sign Law — Portland's "earthquake warning" placards found to violate the First Amendment, a legal summary of the ruling.
+https://www.rockymountainsignlaw.com/2019/06/portlands-earthquake-warning-placards-found-to-violate-first-amendment/
+Masonry Building Owners of Oregon v. Wheeler, 394 F. Supp. 3d 1279 (D. Or. 2019) — the case record.
+https://case-law.vlex.com/vid/masonry-building-owners-of-895277457
+O.P.B. — Portland poised to settle and pay 350,000 dollars in attorneys' fees for the U.R.M. signs lawsuit.
+https://www.opb.org/news/article/portland-oregon-unreinforced-masonry-buildings-lawsuit/
+Notes on the numbers
+The Colombia death toll was still moving while this video was being written. Reporting ran from 111 on the first day to 132, then past 250 with a city-level split of about 101 in Pereira and 95 in Cali, and then to at least 294 dead with more than 3,900 injured and over 300 missing. The video says out loud that the figure is provisional. Treat any single number from the first week as a snapshot, not a final count.
+The Pereira and Armenia comparison is a pattern reported in Colombian coverage, not a published engineering finding. No reconnaissance report has been released for the 2026 event, and no recorded ground motion has been published for those two cities specifically. Two cities forty-five kilometres apart do not necessarily receive the same shaking. The video presents this as a comparison worth watching, not as proof.
+Colombia's NSR-98 seismic code was issued in 1998, before the January 1999 Armenia earthquake, not in response to it. What changed after 1999 was enforcement: the FOREC reconstruction fund rebuilt the damaged housing stock of the coffee region to the new standard at scale. The distinction matters, and the video keeps it.
+The 1965 magnitude is published as 6.5 by the U.S.G.S. and the Pacific Northwest Seismic Network, and as 6.7 in some later catalogues that use a different magnitude scale. The video uses 6.5.
+Damage figures for 1949 and 2001 are in the dollars of their own year and are not inflation-adjusted. The 2001 Nisqually total is commonly given as roughly 2 billion dollars with about 305 million dollars insured, but published estimates for total damage range from about 1 billion to 4 billion depending on what is counted.
+The word "overdue" does not appear anywhere in this video. The historical interval between damaging deep earthquakes in this region averages about thirty years, and Nisqually was twenty-five and a half years before recording. That places the region inside the historical window, not past it. The 85 percent figure is a probability over fifty years published by the U.S.G.S., not a schedule and not a forecast of any particular year.
+Seattle's building count is drawn from the city's own public U.R.M. inventory, which the Seattle Department of Construction and Inspections maintains and which it acknowledges is a working list rather than a certified survey. Portland's count comes from the city's inventory, which was taken offline after the litigation; the figure quoted here is the one the city published while the database was public.
+
+## Todas as URLs das fontes
+
+- https://tinyurl.com/critical21
+- https://docs.google.com/document/d/1btR-v6kCehsJlwGrXln8wBDjt5LNf5yRF1UqD7CX1CQ/edit?usp=sharing
+- https://docs.google.com/document/d/1btR-v6kCehsJlwGrXln8wBDjt5LNf5yRF1UqD7CX1CQ/export?format=txt
+- https://en.wikipedia.org/wiki/2026_Colombia_earthquake
+- https://www.cnn.com/2026/08/10/world/live-news/colombia-earthquake-san-jose-del-palmar
+- https://www.npr.org/2026/08/10/nx-s1-5927515/earthquake-western-colombia
+- https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20
+- https://www.cnbc.com/2026/08/10/earthquake-on-pacific-coast-shakes-colombian-capital.html
+- https://seismosoft.com/preliminary-report-10-august-2026-earthquake-in-colombia/
+- https://colombiaone.com/2026/08/14/why-armenia-suffered-less-damage-colombias-2026-earthquake-1999/
+- https://en.wikipedia.org/wiki/1999_Colombia_earthquake
+- https://nehrpsearch.nist.gov/static/files/NSF/PB2000106893.pdf
+- https://www.iitk.ac.in/nicee/wcee/article/2807.pdf
+- https://www.eird.org/eng/revista/No14_99/desas3.htm
+- https://www.globalquakemodel.org/seismic-regulations/colombia
+- https://www.eird.org/cd/acs/English/CodeEval/SpaSpeak/Seismic/COLOMsce.pdf
+- https://reliefweb.int/report/colombia/earthquake-recovery-colombia-offers-development-model
+- https://www.gfdrr.org/sites/default/files/Earthquake%20Recovery%20Project%20(Colombia)%20ICR%20new.pdf
+- https://pnsn.org/education/pnw-earthquakes/sources/deep
+- https://pnsn.org/education/faq
+- https://open.oregonstate.education/earthquakes/chapter/earthquakes-in-the-juan-de-fuca-plate/
+- https://mil.wa.gov/asset/5ba41f67ab6be
+- https://en.wikipedia.org/wiki/1949_Olympia_earthquake
+- https://www.historylink.org/file/2063
+- https://www.kiro7.com/news/local/75-years-ago-71-magnitude-quake-strikes-between-olympia-tacoma/VRX5742DKFCVJISXYG4WXSJJHI/
+- https://en.wikipedia.org/wiki/1965_Puget_Sound_earthquake
+- https://www.historylink.org/File/1986
+- https://www.kiro7.com/news/local/60-years-ago-today-65-magnitude-rocks-puget-sound-45-seconds/I5SQ6OFIFFEI7PS3RKR5CBIPTQ/
+- https://mil.wa.gov/news/big-1965-earthquake-happened-50-years-ago
+- https://pnsn.org/education/pnw-earthquakes/notable/nisqually
+- https://assets.pnsn.org/notable/WEBDIR_01022818543p/index.html
+- https://en.wikipedia.org/wiki/2001_Nisqually_earthquake
+- https://www.historylink.org/File/3039
+- https://www.king5.com/article/news/history/nisqually-earthquake/20th-anniversary-nisqually-earthquake-western-washington/281-df8b4d26-c842-45dc-a7c9-406167d06fc7
+- https://www.kiro7.com/news/local/25-years-later-nisqually-earthquake-that-rattled-washington/A7WE7EMUWBAM3FYCSHQ5L5BTGE/
+- https://www.seattle.gov/sdci/codes/changes-to-code/unreinforced-masonry-buildings
+- https://www.seattle.gov/sdci/codes/changes-to-code/unreinforced-masonry-buildings/frequently-asked-questions
+- https://www.seattle.gov/sdci/codes/changes-to-code/unreinforced-masonry-buildings/timeline
+- https://www.seattle.gov/construction-and-inspections/codes/changes-to-code/unreinforced-masonry-buildings/background
+- https://buildingconnections.seattle.gov/2023/02/01/building-momentum-to-fix-the-bricks-working-groups-established-to-support-mandatory-unreinforced-masonry-retrofit-ordinance
+- https://www.kuow.org/stories/with-no-retrofit-requirment-in-seattle-1-100-buildings-are-an-earthquake-risk
+- https://portland.gov/bds/news/2019/1/11/update-about-urm-ordinances-189201-189309-requirements-and-letter-notifications
+- https://www.multifamilynw.org/news/portland-city-council-votes-to-repeal-most-urm-requirements-and-create-new-work-group
+- https://www.wweek.com/news/city/2019/05/30/federal-judge-halts-enforcement-of-portlands-requirement-to-post-signs-in-buildings-that-could-crumble-in-an-earthquake/
+- https://katu.com/news/local/judge-finds-1st-amendment-problems-with-portlands-earthquake-sign-ordinance-heres-why
+- https://www.rockymountainsignlaw.com/2019/06/portlands-earthquake-warning-placards-found-to-violate-first-amendment/
+- https://case-law.vlex.com/vid/masonry-building-owners-of-895277457
+- https://www.opb.org/news/article/portland-oregon-unreinforced-masonry-buildings-lawsuit/

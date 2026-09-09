@@ -1,0 +1,9 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=g2595F_iCFA
+[youtube] g2595F_iCFA: Downloading webpage
+[youtube] g2595F_iCFA: Downloading android vr player API JSON
+[info] g2595F_iCFA: Downloading subtitles: en
+[info] g2595F_iCFA: Downloading 1 format(s): 401+251
+[info] Writing video subtitles to: C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\g2595F_iCFA\g2595F_iCFA.en.vtt
+[download] Destination: C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\g2595F_iCFA\g2595F_iCFA.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  660.80KiB/s (00:00:00)[download]    7.00KiB at    1.51MiB/s (00:00:00)[download]   15.00KiB at    1.44MiB/s (00:00:00)[download]   31.00KiB at    1.86MiB/s (00:00:00)[download]   63.00KiB at    2.58MiB/s (00:00:00)[download]  114.94KiB at    2.22MiB/s (00:00:00)[download] 100% of  114.94KiB in 00:00:00 at 429.86KiB/s
+[info] Writing video metadata as JSON to: C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\g2595F_iCFA\g2595F_iCFA.info.json

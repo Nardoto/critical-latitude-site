@@ -1,0 +1,40 @@
+{
+  "id": "ZVOvGUOYC88",
+  "iniciado_em": "2026-09-09T16:29:56.196041-03:00",
+  "motor": [
+    {
+      "tentativa": 1,
+      "exit_code": 0,
+      "comando": [
+        "C:\\Program Files\\Nardoto Studio\\NardotoStudio\\resources\\python-runtime\\python.exe",
+        "C:\\Program Files\\Nardoto Studio\\NardotoStudio\\resources\\studio-skills\\pesquisa-mercado\\scripts\\pesquisa.py",
+        "video",
+        "https://www.youtube.com/watch?v=ZVOvGUOYC88",
+        "--comentarios",
+        "150"
+      ]
+    }
+  ],
+  "json_motor_origem": "C:\\Users\\tharc\\Documents\\site critical\\projetos\\critical-latitude-site\\docs\\videos\\ZVOvGUOYC88\\_motor\\video-zvovguoyc88.json",
+  "suplemento": [
+    {
+      "tentativa": 1,
+      "exit_code": 0,
+      "comando": [
+        "C:\\Program Files\\Nardoto Studio\\NardotoStudio\\resources\\python\\yt-dlp.exe",
+        "--skip-download",
+        "--write-auto-sub",
+        "--write-sub",
+        "--sub-lang",
+        "en",
+        "--sub-format",
+        "vtt/json3",
+        "--write-info-json",
+        "-o",
+        "C:\\Users\\tharc\\Documents\\site critical\\projetos\\critical-latitude-site\\docs\\videos\\ZVOvGUOYC88\\%(id)s",
+        "https://www.youtube.com/watch?v=ZVOvGUOYC88"
+      ]
+    }
+  ],
+  "finalizado_em": "2026-09-09T16:30:30.664545-03:00"
+}

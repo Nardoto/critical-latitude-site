@@ -1,0 +1,44 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+The Earthquake That Has Already Hit the Northwest 5 Times — And It Isn't the Big One
+Critical Latitude  -  6,0 mil views  -  280 likes (4.67%)  -  19:43  -  20260818
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  Five days ago, in the coffee country of western Columbia, an earthquake killed 285 people. Close to 4,000 were injured. Hundreds still listed as missing, and that number has changed every day since. Which means that as I record this, there are families standing outside collapsed buildings waiting to be told something. I want to begin there, rather than with the seismology, because the seismology is why I'm making this video, and the people are why it matters. More than nine out of 10 of those deaths happened in city centers and departmental capitals, where people live stacked above one another in buildings that went up long before anybody in Columbia wrote a rule about earthquakes. The small
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  Five days ago, in the coffee country of western Columbia, an earthquake killed 285 people. Close to 4,000 were
+  2:27  and this is Critical Latitude. Almost everything you're about to hear is published and public and has been sit
+  4:55  energy released by these earthquakes spreads out over a larger area, resulting in more widespread shaking." Th
+  7:23  immediately next to unreinforced masonry buildings. Pioneer Square, First Hill, SODO. Unreinforced masonry mea
+  9:51  right now. Which brings me to the buildings, and this is where I stop being neutral. The city of Seattle has i
+  12:19  small building with a business in it. Mandating that work without funding puts those people out. That is a rea
+  14:46  the 1999 history behind it. It's not yet a finding. The death toll is also still moving and was still climbing
+  17:14  Seattle's is public. This applies to the building that you sleep in, and also to the one you spend 8 hours a d
+
+(este video nao expoe a curva de retencao - normal em video novo ou com poucas views)
+
+COMENTARIOS MAIS CURTIDOS (26 do publico):
+  [      6 likes] I was a boy in Tacoma in 1965. I was in bed. My bed slid on the wooden floor from wall to wall. The ceiling in the hallway had a 6 foot crack, but tha
+  [      2 likes] I live  in Santa Monica California (Los Angeles County) used to live in San Francisco. My house is new and built to current earthquake codes for Calif
+  [      2 likes] Excellent presentation. I live close to the Nisqually, so it hit home to me. Thank you for encouraging use to be prepared.
+  [      1 likes] I will never forget the 2001 Nisqually quake. I was at home, in an apartment on the third floor of a small four story building in North Seattle that w
+  [      1 likes] Great job on your video! I remember the 1965 earthquake very well. I was just about to step off of the school bus onto the concrete sidewalk when ever
+  [      1 likes] That quake shook from 4 to 5 minutes. I can't imagine that length of time and I've been in numerous SoCal earthquakes since the 50's.
+  [      1 likes] AI is getting better with the fingers
+  [      0 likes] wow what a story!
+  [      0 likes] I grew up north of Seattle. I was in 6th grade in 2001 when the Nisqually hit. We were in class. It was very strange as I think we all had a delayed r
+  [      0 likes] My partner and I were on Capitol Hill in Seattle which is just up the hill from downtown Seattle. We were on the 4th floor of an old apartment buildin
+  [      0 likes] I was working in Boston that day in 2001 when I got a call from my brother. He was on a high floor of a tower n Portland, OR and had quite the ride. H
+  [      0 likes] I was at the office (south end of Lake Sammammish) for the Nisqually quake. We definitely felt the quake, but fortunately there wasn't much damage tha
+  [      0 likes] I was observing a middle school class at a school in Seattle when the Nisqually quake hit. After hearing a growing low roar, the walls began shaking a
+  [      0 likes] My Dad had built quake secure shelving for all my mom's books after the Scotts Mills quake in the 1990s in Oregon. They got shaken pretty hard in Port
+  [      0 likes] They forced anyone renting places for people to live to reinforce their buildings. I was in a bar on the bottom floor of such a building and I noticed
+  [      0 likes] Nice job🎯
+  [      0 likes] Had lived in SoCal and was prepared for quakes but got tired of them and the preparation. My family and many others from Cali moved to Oregon and Wash
+  [      0 likes] @criticallatitudetv  do you know why that concrete can actually wave like that but then return to a unharmed state?
+  [      0 likes] we have 3 differnt types of earthquakes here, not just 2. please get the geology correct.we are due or in the window for the 2 largest types. i was in
+  [      0 likes] How about the 1964 quake in Alaska? It was 9.0 Few rarely mention it!
+
+JSON completo (curva inteira, 35 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\2oECeSCLj2w\_motor\video-2oecesclj2w.json

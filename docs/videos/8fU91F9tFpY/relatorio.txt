@@ -1,0 +1,44 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+Mount Rainier: The Disaster Waiting to Happen
+Critical Latitude  -  27,0 mil views  -  839 likes (3.11%)  -  20:09  -  20260729
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  Every spring, thousands of schoolchildren south of Seattle walk out of class in the middle of the morning and start climbing uphill away from Mount Rainier. Not away from a fire and not away from any earthquake. This isn't a normal school drill. They're walking uphill away from a volcano that the United States Geological Survey ranks as a bigger threat to American lives and property than Yellowstone. They follow a marked route through town away from the river and they keep going until they reach the highest ground they can get to on foot. It ran again just this April on the 23rd. Puyallup, Sumner, Bonney Lake, Orting, White River, Carbonado. Five districts walking uphill on a Thursday mornin
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  Every spring, thousands of schoolchildren south of Seattle walk out of class in the middle of the morning and 
+  2:30  the postcard version of this mountain is doing a lot of damage, so let me tell you what it actually is. Rainie
+  5:01  happened during a period of eruptions. Orting, Buckley, Sumner, those towns are not near where it went. Those 
+  7:32  weeks to prepare have to prepare, excuse me. That has been the pattern eight times out of nine. But one time o
+  10:03  the Interstate 5, and the Port of Tacoma. Pierce County's own assessment says a lahar has the potential to cau
+  12:34  slows and comes to rest in the valleys around Sumner and Puyallup. USGS's own physics model, the worst-case no
+  15:05  Yellowstone here because pushing this too far is its own kind of distortion, too. Yellowstone is not rated low
+  17:36  of those five school districts, they probably already walked their route, and they might know it better than y
+
+(este video nao expoe a curva de retencao - normal em video novo ou com poucas views)
+
+COMENTARIOS MAIS CURTIDOS (107 do publico):
+  [     19 likes] I live in the neighboring city to Puyallup (pew-wallup).  Back in the 2010s i went to a school about a half mile from the Puyallup river called chief 
+  [     12 likes] Washington resident, just south of Mt. St. Helens  Thank you for the info.
+  [      9 likes] It was normal in Auburn if digging was being done deeply enough for whatever reason, to find big timber, old growth down deep..  usually not complete 
+  [      8 likes] I live in Newberg, Oregon. A friend and I visited Mt. St. Helens a couple of years ago and there is still so much visible destruction. My friend hiked
+  [      7 likes] Thank you, for being so beautifully honest. Keep it coming please.
+  [      7 likes] Hello from Liberty Lake Washington state  7:25 AM. August 2,2026 enjoying your stories  ; thank you good luck 🎉
+  [      5 likes] I live in Lakewood, WA but work about 50 yards from the Puyallup River on N Levee Rd 😅 Mt Tahoma (Rainier) erupting and the Cascadia Subduction quake 
+  [      4 likes] Orting resident here. I don't think they're really worried about it or they wouldn't have built a $9 million dollar crosswalk over the road that was s
+  [      3 likes] I LOVE the way you showed HOW TO PRONOUNCE PUYALLUP.  It seems the names of the PNW are the hardest for everyone to pronounce.  Lol! 😁
+  [      3 likes] ​ @steveh8387 its not "so funny" Its just an emoji to convey a chuckle.   Go be angry at someone else
+  [      3 likes] Used to live between Mt. Rainier and Mt. Baker. I always wondered what my chances would be if both went critical at the same time. Love the videos and
+  [      3 likes] Grew up on my family's farm & vineyard in Orting (pronounced "Ort-ing" with less emphasis on the "t", almost a "d" sound), myself & several others in 
+  [      3 likes] Puyallup (PEW-AL-UP)
+  [      2 likes] I live in the area but not near the lahar areas.
+  [      2 likes] Yesss more geology stuff its food for my brain good stuff thank u
+  [      2 likes] Visited both Mt Ranier and Mt St Helens last year.  Just looking at them gave me anxiety for no reason. May be because I lived at Clark AF Base in the
+  [      2 likes] Great video, wish you would have noted no.2 on the list, St. Helens, is only 2 hours away from Rainier also in WA state. Oh, and Puyallup, is Pew-all-
+  [      2 likes] Mt Rainier if get hot the ice and snow will melt and here comes the melt.  We can't out run it!!!😮😮😮
+  [      2 likes] Im in Auburn just north of the Enumclaw Osceola.  Orting is pronounced Ording. Puyallup is  pew •AL•lup  Thanks for the video. Can do another "what if
+  [      2 likes] No. I am in Minnesota. Yet I've lived on the west coast where earthquakes, tsunamis and volcano activity could potentially happen. Yet I  didn't live 
+
+JSON completo (curva inteira, 150 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\8fU91F9tFpY\_motor\video-8fu91f9tfpy.json

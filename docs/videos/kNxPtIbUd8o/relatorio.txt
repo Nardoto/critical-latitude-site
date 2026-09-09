@@ -1,0 +1,60 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+When Cascadia Hits, This Coast Has 15 Minutes — And That's Not the Worst Part
+Critical Latitude  -  142,1 mil views  -  4,6 mil likes (3.26%)  -  17:34  -  20260731
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  There's a stretch of the Washington coast where the math doesn't work. If you're standing in Westport when the Cascadia subduction zone finally moves, the shaking runs for several minutes. When it stops, you have somewhere between 10 and 15 minutes before the first wave arrives. That's your window, 10 to 15 minutes. Washington's Emergency Management Division has measured how long it takes to walk out of the inundation zone from parts of the outer coast. In many of those areas, the answer is an hour or more on foot. Over ground that just shook for 5 minutes with liquefied soil under you, bridges possibly gone, and everyone around you trying to do the same thing at the same moment. An hour of 
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  There's a stretch of the Washington coast where the math doesn't work. If you're standing in Westport when the
+  2:11  remaining option is to get them up. There's a second piece of this that locals on the coast are taught and vis
+  4:23  on the roof. That's a set of loads no ordinary building code contemplates. A normal structural code asks about
+  6:34  in Washington needs a supermajority. The district put the measure on the ballot, and it failed. They put it up
+  8:46  together makes such a big difference. Lee Shipman, who worked on the project, put it more directly. She said t
+  10:58  assembled from scratch by a small local government with a handful of staff competing against every other hazar
+  13:09  that there isn't a clean answer. People live where their work is, where their families are, and the coast is b
+  15:21  structures is a decision about who gets covered. Building a tower in the Marina District means the Marina Dist
+
+CURVA DE RETENCAO (1,0 = trecho mais revisto do video):
+  ABERTURA (os primeiros segundos decidem o video):
+    0:00  0.31  There's a stretch of the Washington coast where the math doesn't work. If you're standing 
+    0:11  0.12  between 10 and 15 minutes before the first wave arrives. That's your window, 10 to 15 minu
+    0:21  0.13  inundation zone from parts of the outer coast. In many of those areas, the answer is an ho
+  PICOS (o que o publico volta pra rever):
+    15:49  1.00  Management Division hosts the walk time modeling. Oregon's Department of Geology and Miner
+    15:59  0.72  I'll link them for you in the description. Now, the second thing, and this is the one almo
+    15:38  0.38  if you live on or visit this coast, is find out whether you're inside the inundation zone.
+    12:18  0.33  state had ever done. It banned the construction of new essential facilities inside the tsu
+    0:00  0.31  There's a stretch of the Washington coast where the math doesn't work. If you're standing 
+  VALES (onde o publico abandona):
+    8:47  0.00  together makes such a big difference. Lee Shipman, who worked on the project, put it more 
+    10:32  0.00  in all of this. Look at how the three existing projects were paid for, and you get three d
+    8:58  0.01  And a tribal member named Lynn Clark said simply that the tower will save their lives some
+    10:43  0.01  taxed themselves. Shoalwater Bay came from tribal funds plus a federal grant. Westport is 
+    10:22  0.01  is worth flagging because it tells you something about the pace of this work generally. Oc
+
+COMENTARIOS MAIS CURTIDOS (146 do publico):
+  [    102 likes] Moved from out of state to the central Oregon coast where I lived for 3 years. After talking with the county Emergency Manager I came to realize even 
+  [     79 likes] I don't believe there is a square inch of the earth that is not at risk of a disaster.
+  [     67 likes] Thanks very much for your reporting, very informative.  Canadian here, I live in Vancouver.  Cascadia doesn’t recognize international borders!
+  [     50 likes] Dogs in Turkey howled 15 minutes before the first trimmers 3 years ago
+  [     48 likes] Thank you SO much for this! Your objective, yet personable method of describing this situation is invaluable. I live in Port Townsend WA, and I have 3
+  [     39 likes] I heaved a sigh of relief after leaving Portland 10 years ago. Long Beach would be toast. I remember hearing how a runner tried a training escape from
+  [     34 likes] 55ft isn’t high enough. The ground can drop 6ft.
+  [     30 likes] why doesn't anyone mention the fact the Washington and Oregon coastlines are going to drop about 6.6 ft instantaneously and everyone at the beach is g
+  [     30 likes] OMG! The longer Cascadia waits, the worse it may be!
+  [     27 likes] I only rent Oregon coast vacation rentals that are either out of the tsunami hazard zone, or a very quick walk out of the zone. Usually this means bei
+  [     23 likes] Beautiful coasts along those states...but no way would I live there.
+  [     23 likes] No problem where I live on the east slope of the Cascades in Oregon but if I lived on the coast I would always have a small motorcycle ready to go. Be
+  [     22 likes] I was born in the PNW, I was 15 yo in PDX when Mt. St. Helen erupted. I had some knowledge over the years that we lived in a volcanic and seismic zone
+  [     19 likes] ​ @Benmelech I think that should be tremors
+  [     18 likes] I am learning to levitate. But just in case, I have mopeds or small motorcycles always ready to go. You can squeeze in between cars (lane splitting) a
+  [     10 likes] I have family in Beaverton, near Portland. They are young and unprepared. I worry about them!
+  [     10 likes] Born and raised in Seattle since '57. We all knew there was no escape from the valley that Seattle is in. Every 3 miles on any road in any direction i
+  [     10 likes] Nope your house will cease to exist as a structure maybe a little of the foundation might be left but odds are definitely against this idea
+  [      8 likes] The 1700 Tsunami that completely washed away many Tribal settlements only had an average height of 30 to 40 feet but in some bays as high as over 60 7
+  [      8 likes] What amazes me is most people here just minimize it. "You can't live in fear" "they've been saying this for 50 years" "live for today" and I'm like, y
+
+JSON completo (curva inteira, 150 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\kNxPtIbUd8o\_motor\video-knxptibud8o.json

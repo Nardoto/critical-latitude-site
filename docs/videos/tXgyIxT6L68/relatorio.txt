@@ -1,0 +1,44 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+Campi Flegrei Just Had Its Strongest Earthquake In 40 Years - And 500,000 People Live Inside It
+Critical Latitude  -  39,9 mil views  -  525 likes (1.31%)  -  15:25  -  20260802
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  Friends, so much has happened in just the last 24 hours. At 7:46 and 43 seconds just last night local time, 10 miles west of Naples, Italy, a magnitude 4.7 earthquake. This was 3 km down, which is about under 2 miles. The epicenter of the earthquake sat between two towns, Pozzuoli and Quarto, right beside a steaming crater called the Solfatara. It looks like 21 people were hurt as of this morning, and two of them seriously hurt. A section of wall came off of a building on Via Pergolesi and landed on parked cars. The port of Pozzuoli closed, which cut the ferries out to the islands of Procida and Ischia. Rail service across the entire Naples network had stopped, and power went out in several 
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  Friends, so much has happened in just the last 24 hours. At 7:46 and 43 seconds just last night local time, 10
+  1:55  story as the shaking dying down to the lowest point of the crisis. But they didn't know what was about to happ
+  3:50  when they say a swarm of earthquakes. It's a run of earthquakes that are close together in time instead of one
+  5:46  what they mean. So, the first one you'll see is called a caldera. A caldera is what's left after a volcano eru
+  7:41  INGV, said just this morning there's no signal of magma rising. That's a direct quote from him and it's a stat
+  9:36  lot of them never went back. The old quarter, Rione Terra, stayed largely empty for decades. Add to that the c
+  11:32  higher by the time you're watching this. Now, back to the 10 earthquakes from last week. What I missed on Tues
+  13:27  With the magma about 7 and 1/2 miles down, well below the part that's moving. That's the same sentence INGV is
+
+(este video nao expoe a curva de retencao - normal em video novo ou com poucas views)
+
+COMENTARIOS MAIS CURTIDOS (147 do publico):
+  [     32 likes] Campi Flegrei is not simply a Volcano. It's a Super Volcano. Like the one under Yellowstone. It's a cluster of smaller cones and volcanos all within t
+  [     16 likes] If you choose to live in an active caldera then you choose to take your life in your hands, it is nobody else's problem.
+  [     14 likes] This was 4.7. When the previous 4.6 ones happened, the word was "If it was 5.0, most of the houses would collapse".  Looks like that prediction was pr
+  [     13 likes] That earth quaked looked like something popped up underneath the ground. I would be thinking about evacuating.
+  [     11 likes] Residences in that area recieved a warning but they don't want to move out.
+  [     10 likes] @StefanosP-e6p  Except for the fact that Campi Flegrei is indeed considered a supervolcano and could be devastating if a major eruption occurred. It's
+  [      9 likes] @CorneliaGilsbach-f8s  stop believing stupid superstitions
+  [      8 likes] Governments should NEVER be able to force people to do things. They should always be able to make their own decisions. But the government can decide t
+  [      7 likes] If they get one under 1.5miles, it's time to run 🏃‍♀️.
+  [      7 likes] Mother Nature has just issued a warning to evacuate,if you don’t leave now you will suffer the consequences
+  [      7 likes] If that blows Up....well have total different Problems in europe
+  [      7 likes] God is our only hope of salvation yes amen
+  [      6 likes] I understand not wanting to alarm people, but when they say "it's not magma, don't worry": that's misleading. A phreatic eruption can be extremely dev
+  [      5 likes] @CorneliaGilsbach-f8s  yeah, sure. prepare for the rapture lol
+  [      5 likes] Personally this being purely Volcanic with no Tectonic movement, I would be considering at least leaving the area temporarily.  I hope everyone stays 
+  [      4 likes] Additionally there is increased activity in Yellowstone. And remember last year, the thing with Santorini?  Then we have earthquakes in Venezuela, Jap
+  [      4 likes] Naples is built in a disaster zone.
+  [      4 likes] Same with folks living in San Andreas fault area
+  [      3 likes] It has been in a state of "unrest" dating back to 2013. I was keeping an on it for years online. It has had out gassing, rasing ground and some more s
+  [      3 likes] @StefanosP-e6p  It’s a caldera. Not just a volcano. Same as Yellowstone. You know what happens when that one blows up?  Bye bye USA.
+
+JSON completo (curva inteira, 150 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\tXgyIxT6L68\_motor\video-txgyixt6l68.json

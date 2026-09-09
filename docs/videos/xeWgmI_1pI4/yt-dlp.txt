@@ -1,0 +1,9 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=xeWgmI_1pI4
+[youtube] xeWgmI_1pI4: Downloading webpage
+[youtube] xeWgmI_1pI4: Downloading android vr player API JSON
+[info] xeWgmI_1pI4: Downloading subtitles: en
+[info] xeWgmI_1pI4: Downloading 1 format(s): 401+251
+[info] Writing video subtitles to: C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\xeWgmI_1pI4\xeWgmI_1pI4.en.vtt
+[download] Destination: C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\xeWgmI_1pI4\xeWgmI_1pI4.en.vtt
+[download]    1.00KiB at  642.71KiB/s (00:00:00)[download]    3.00KiB at    1.14MiB/s (00:00:00)[download]    7.00KiB at    2.66MiB/s (00:00:00)[download]   15.00KiB at    3.28MiB/s (00:00:00)[download]   31.00KiB at    1.58MiB/s (00:00:00)[download]   63.00KiB at    2.97MiB/s (00:00:00)[download]  127.00KiB at    2.76MiB/s (00:00:00)[download]  255.00KiB at    3.58MiB/s (00:00:00)[download]  268.20KiB at    3.48MiB/s (00:00:00)[download] 100% of  268.20KiB in 00:00:00 at 864.39KiB/s
+[info] Writing video metadata as JSON to: C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\xeWgmI_1pI4\xeWgmI_1pI4.info.json

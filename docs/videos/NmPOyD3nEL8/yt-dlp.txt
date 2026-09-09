@@ -1,0 +1,9 @@
+[youtube] Extracting URL: https://www.youtube.com/watch?v=NmPOyD3nEL8
+[youtube] NmPOyD3nEL8: Downloading webpage
+[youtube] NmPOyD3nEL8: Downloading android vr player API JSON
+[info] NmPOyD3nEL8: Downloading subtitles: en
+[info] NmPOyD3nEL8: Downloading 1 format(s): 401+251
+[info] Writing video subtitles to: C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\NmPOyD3nEL8\NmPOyD3nEL8.en.vtt
+[download] Destination: C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\NmPOyD3nEL8\NmPOyD3nEL8.en.vtt
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.93MiB/s (00:00:00)[download]    7.00KiB at    3.41MiB/s (00:00:00)[download]   15.00KiB at    4.88MiB/s (00:00:00)[download]   31.00KiB at  320.77KiB/s (00:00:00)[download]   63.00KiB at  640.46KiB/s (00:00:00)[download]  127.00KiB at  935.33KiB/s (00:00:00)[download]  188.78KiB at    1.14MiB/s (00:00:00)[download] 100% of  188.78KiB in 00:00:00 at 420.01KiB/s
+[info] Writing video metadata as JSON to: C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\NmPOyD3nEL8\NmPOyD3nEL8.info.json

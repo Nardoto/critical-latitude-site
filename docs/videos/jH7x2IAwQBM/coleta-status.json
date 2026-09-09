@@ -1,0 +1,27 @@
+{
+  "id": "jH7x2IAwQBM",
+  "iniciado_em": "2026-09-09T16:30:20.472129-03:00",
+  "motor": [],
+  "json_motor_origem": "C:\\Users\\tharc\\Documents\\site critical\\projetos\\critical-latitude-site\\docs\\videos\\jH7x2IAwQBM\\_motor\\video-jh7x2iawqbm.json",
+  "suplemento": [
+    {
+      "tentativa": 1,
+      "exit_code": 0,
+      "comando": [
+        "C:\\Program Files\\Nardoto Studio\\NardotoStudio\\resources\\python\\yt-dlp.exe",
+        "--skip-download",
+        "--write-auto-sub",
+        "--write-sub",
+        "--sub-lang",
+        "en",
+        "--sub-format",
+        "vtt/json3",
+        "--write-info-json",
+        "-o",
+        "C:\\Users\\tharc\\Documents\\site critical\\projetos\\critical-latitude-site\\docs\\videos\\jH7x2IAwQBM\\%(id)s",
+        "https://www.youtube.com/watch?v=jH7x2IAwQBM"
+      ]
+    }
+  ],
+  "finalizado_em": "2026-09-09T16:30:27.678197-03:00"
+}

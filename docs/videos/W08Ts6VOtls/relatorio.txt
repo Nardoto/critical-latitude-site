@@ -1,0 +1,44 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+Antarctica's 'Doomsday Glacier' Is About to Lose Its Brake - And America Gets Hit Hardest
+Critical Latitude  -  51,4 mil views  -  1,3 mil likes (2.55%)  -  20:26  -  20260803
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  Every hurricane you've ever watched come ashore had one thing in common, the water left. It rose, it took what it was going to take, and then it drained back out to sea. The cameras went home, the rebuilding started. That's what a storm surge is. It's a visit. However violent it gets, the ocean eventually returns to where it was, and the line on the map that separates land from water goes back to being the line it always was. There is one flood threat to the United States that does not work that way at all though. It's not a storm. It will never appear on a forecast cone. It's a single glacier in West Antarctica, on the other side of the planet from the American coastline. It's larger than t
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  Every hurricane you've ever watched come ashore had one thing in common, the water left. It rose, it took what
+  2:33  of ocean called the Amundsen Sea. Its drainage basin covers about 192,000 square kilometers, roughly 74,000 sq
+  5:06  grounding line further inland into water that is deeper still. Each step makes the next step easier and scient
+  7:39  call a pinning point, it pushes back against the glacier behind it and slows the rate at which land ice slides
+  10:12  storm, unchanged in strength, reaches further inland than it would have before. Sea level rise does not replac
+  12:45  on your location. Charleston, South Carolina sits in a range of roughly 45 to 115 days and the Norfolk area in
+  15:18  ice loss, and the finding does not mean Thwaites is stable. Now, what that study removed was the fastest possi
+  17:51  buying on the coast, ask for the elevation certificate and ask about the property's flood history, rather than
+
+(este video nao expoe a curva de retencao - normal em video novo ou com poucas views)
+
+COMENTARIOS MAIS CURTIDOS (131 do publico):
+  [     20 likes] Here in Hawaii, we have foundations of oceanfront homes that were built in the 1800s that are now a foot under the ocean
+  [     19 likes] Miami has streets that flood on perfectly sunny days.  The water is coming up through the ground.
+  [     15 likes] I'm in Serbia, and actually, the water in my proximity has exposed II World war unexploded mines, old sunken ships, that water is called Danube.
+  [     14 likes] Quincy, MA—there are parking lots near where some marshes are where they’ve had to put signs in that they flood at some high tides
+  [     13 likes] When I first moved to California in 1979 I used to be able to go down to gaviota Beach and camp in the tent on the beach overnight I'm not worried abo
+  [     13 likes] Nice to not have AI slop and drama clickbait. Subscribed!!!😊
+  [     11 likes] This is the first time, well actually the second time I've heard that sea level rise could be to feet worldwide so I'm glad to see that there is soft 
+  [     11 likes] UK, East Anglia. The entire East Coast is crumbling. Hemsby, 20 miles away has been decimated.
+  [      9 likes] It's highly enlightening sea level rise.... I haven't noticed any in NZ I'm 66 with a PhD .. Last week we had the coldest day in 30years..this Thursda
+  [      9 likes] Tasmania, Australia … the Southern Ocean has risen 40 cm and has taken many holiday homes at Southport, 90 km south of Hobart. Tha coastal erosion is 
+  [      8 likes] From north Florida. It floods here on a regular basis.
+  [      7 likes] Georgetown Guyana. The coastline is protected by a 270 mile long seawall. In 2013 and additional height of 2 feet was added because during spring tide
+  [      7 likes] I hate AI
+  [      6 likes] 10:29 14:00 i thought it was AI, but getting scarily hard to tell now
+  [      5 likes] Coos Bay, Oregon, and we are directly on the water already!
+  [      5 likes] LOVE your grounded approach.  I wish I was as good as you!  5 stars ⭐️⭐️⭐️⭐️⭐️
+  [      5 likes] Too much AI text, no one even checked the video to see that the same paragraph repeats on several ocassions.
+  [      5 likes] AI sucks!
+  [      4 likes] That's from farmers pumping groundwater out of the soil, resulting in subsidence. The ground shrinks and can't rise again.
+  [      4 likes] my question is, is this inevitable. and what are the effects on the climate after this is said and done. will it make the planet get hotter or colder?
+
+JSON completo (curva inteira, 150 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\W08Ts6VOtls\_motor\video-w08ts6votls.json

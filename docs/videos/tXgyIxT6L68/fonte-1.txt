@@ -1,0 +1,40 @@
+﻿Sources - Campi Flegrei: Strongest Earthquake in 40 Years (Critical Latitude)
+This video is educational reporting on an ongoing seismic sequence at Campi Flegrei, Italy. It is not a prediction that an eruption is imminent. Every figure below is linked to its primary source.
+The 31 July 2026 earthquake
+I.N.G.V. event page for the mainshock - magnitude Md 4.7 plus or minus 0.3, 19:46:43 local time, 31 July 2026, epicentre 40.8315 N / 14.1402 E between Pozzuoli and Quarto, depth 3 km (1.9 miles)
+https://terremoti.ingv.it/event/46725592
+I.N.G.V. seismic swarm communique, 31 July 2026 - the preliminary bulletin listing 10 events in the swarm and confirming the Md 4.7
+https://ingvterremoti.com/2026/07/31/evento-sismico-md-4-7-ai-campi-flegrei-e-comunicato-di-sciame-31-luglio-2026/
+C.N.R. press note - confirms this as the strongest instrumentally recorded event at Campi Flegrei since the roughly M4.0 of 4 October 1983; comment from Andrea Billi, C.N.R.
+https://www.cnr.it/it/nota-stampa/n-14549
+Sky TG24 news coverage - the injury count rising to 21 with 2 serious, structural collapses, and the suspended rail service (provisional figures, reported same night)
+https://tg24.sky.it/cronaca/2026/07/31/terremoto-napoli-oggi
+Ground uplift and the quiet weeks before
+I.N.G.V.-Osservatorio Vesuviano weekly Campi Flegrei bulletins - index of all weekly monitoring bulletins, the source for the uplift rate and weekly earthquake counts
+https://www.ov.ingv.it/index.php/monitoraggio-e-infrastrutture/bollettini-tutti/boll-sett-flegrei
+I.N.G.V.-Osservatorio Vesuviano weekly bulletin covering 20-26 July 2026 - uplift held at roughly 10 plus or minus 3 mm per month since early February 2026, with 20 quakes (max Md 1.5) and then 10 quakes (max Md 0.8) in the preceding weeks
+https://www.ov.ingv.it/index.php/monitoraggio-e-infrastrutture/bollettini-tutti/boll-sett-flegrei/anno-2026/1995-bollettino-flegrei-2026-07-28/file
+What scientists actually said about magma
+Lucia Pappalardo, I.N.G.V. - "no signal of magma rising", stated the morning after the earthquake
+https://www.cronachedellacampania.it/2026/08/campi-flegrei-pappalardo-ingv-nessun-segnale-magma-in-salita/
+NapoliToday - I.N.G.V. statement that monitoring shows no signals of magma rise, and the alert level remains yellow
+https://www.napolitoday.it/cronaca/campi-flegrei-terremoti-magma-risalita-eruzione.html
+Bulletin of Volcanology - peer-reviewed discussion of the competing interpretations of bradyseism at Campi Flegrei, including the hydrothermal versus magmatic debate
+https://link.springer.com/article/10.1007/s00445-026-01977-7
+The 1982-84 crisis and the historical record
+"Source and dynamics of a volcanic caldera unrest: Campi Flegrei, 1983-84" - the 1.8 m (5.9 ft) of uplift, more than 16,000 earthquakes, and the evacuation of Rione Terra
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5556014/
+Smithsonian Institution Global Volcanism Program, Campi Flegrei - eruptive history including the last eruption, Monte Nuovo in 1538
+https://volcano.si.edu/volcano.cfm?vn=211010
+Alert level, the red zone and the national plan
+Dipartimento della Protezione Civile - national emergency planning for Campi Flegrei, including the red zone and the roughly 500,000 people it covers
+https://rischi.protezionecivile.gov.it/it/vulcanico/vulcani-italia/campi-flegrei/la-pianificazione-nazionale-di-emergenza-il-rischio-vulcanico-i-campi-flegrei/
+Dipartimento della Protezione Civile - the process for updating the national Campi Flegrei emergency plan
+https://www.protezionecivile.gov.it/it/approfondimento/il-percorso-laggiornamento-del-piano-nazionale-di-protezione-civile-i-campi-flegrei-0/
+Long Valley Caldera, eastern California
+Zhan et al., "An upper-crust lid over the Long Valley magma chamber", Science Advances, 18 October 2023 - the imaging that places the magma chamber at roughly 12 km depth beneath a cooled cap
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10584340/
+Caltech news release on the same study - plain-language summary of the cooling caldera and its continued earthquake potential
+https://www.caltech.edu/about/news/california-supervolcano-is-cooling-off-but-may-still-cause-quakes
+U.S.G.S., "Living With a Restless Caldera - Long Valley, California" - the May 1980 sequence of four magnitude 6 earthquakes and the resulting uplift
+https://pubs.usgs.gov/dds/dds-81/Intro/facts-sheet/fs108-96.html

@@ -1,0 +1,44 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+Everything We Know About Krakatau's Eruption - Will Another Tsunami Strike?
+Critical Latitude  -  286,4 mil views  -  3,0 mil likes (1.04%)  -  16:39  -  20260908
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  If we drop it in, the same water is going to have to move much faster. A section of Crocodile's Island is missing. It's lying at the bottom of the ocean on the seabed. Before December 22nd, 2018, that rock was part of a volcano. Then its southwestern side collapsed into [music] the sea and a tsunami hit the surrounding coasts. More than 400 people died. The volcano erupting there today belongs to that same system. So yes, Crocatile has produced a tsunami in the past and it can do it again. The question is whether the eruption we're watching now is moving it towards another tsunami. To answer that, we need to follow something the eruption footage can't show us. The
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  If we drop it in, the same water is going to have to move much faster. A section of Crocodile's Island is miss
+  2:04  Sunda Strait, the stretch of sea between the islands of Java and Sumatra. The island rises inside a much large
+  4:09  It also explains why judging every eruption against 1883 can be misleading. The deadly tsunami in 2018 happene
+  6:13  it's not as supported, that creates different problems. And it doesn't calculate for us when our volcanic slop
+  8:18  landscape and examine material beneath the seabed. Sound takes time to travel down and return. Measuring that 
+  10:23  same problem? To work that out, we need to know where the new rock is going and what shape it's forming. If yo
+  12:27  another tsunami. And the 2018 collapse shows a proven route. Assessing that route requires understanding the s
+  14:32  where people are, and how quickly a message reaches them. A warning still has to reach the person on the beach
+
+(este video nao expoe a curva de retencao - normal em video novo ou com poucas views)
+
+COMENTARIOS MAIS CURTIDOS (141 do publico):
+  [     85 likes] Living only about 50 km from Anak Krakatau. Conditions here are fine right now, and the ash is actually falling more in distant areas than near us.  T
+  [     44 likes] Thank you for saying "Krakatau" instead of the bogus "Krakatoa".
+  [     42 likes] Hi Gwen, its nice to watch your videos very informative. At first I thought you are an AI. Watching from Michigan.
+  [     41 likes] The 2018 tsunami took 4 friends of mine. I was working as Liaison Officer for an Indonesian band called Seventeen in Nov 2018. They were doing a spons
+  [     36 likes] I propose the most advanced early warning system, a buoy with a cowbell attached.
+  [     31 likes] This volcano has been a killer for thousands of years. Yesterdays eruption column was massive.
+  [     30 likes] Very refreshing to see a presentation about Krakatau that's informative, accurate and, above all, not sensationalist. I've been producing a documentar
+  [     27 likes] Baby Krakatoa is awakening :face-fuchsia-tongue-out:
+  [     18 likes] I'm a retired analyst who worked primarily as a consultant assisting companies doing new product development or redevelopment of existing products. I 
+  [     15 likes] Five journalists were reported missing while covering the eruption of Mount Anak Krakatau.
+  [     15 likes] The scripts are almost certainly written with AI help. “It’s not X it’s Y.” “This explains X” tells are all over the place. It’s really jarring once y
+  [     15 likes] Hi Gwen and Gwen's husband. Another wonderful and informative video. Thanks, keep up the great work.
+  [     12 likes] Gwen is type a storyteller that can read a tale for hours yet we wont get bored to hear her voice.
+  [      7 likes] @leslieeley9046 I don’t see where it says that anywhere.
+  [      7 likes] For anyone wondering, yes, he did change his legal name to Gwen's husband
+  [      6 likes] The big island of Hawaii has an extremely large slump on the flank   that is,  sooner or later that is going to drop and it will do a very large displ
+  [      5 likes] Thank you for the clear information. Now I can better prepare for the event, especially since I live just 56 km from Krakatoa.
+  [      5 likes] Finally I see someone who pronounces Krakatoa the correct way
+  [      5 likes] HI! GWEN ABSOLUTLY!! THIS VOLCANO IS VERY HIGH, WILL MANIFEST ANY MINETE JUST LIKE IT DID LAST WEEKEND ITS CHILD DID.
+  [      5 likes] The ring of fire is a series of volcanos island  running from north of Sumatra down to Java and further east. Between Java and Sumatra is the Sunda St
+
+JSON completo (curva inteira, 150 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\jH7x2IAwQBM\_motor\video-jh7x2iawqbm.json

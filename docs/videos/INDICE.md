@@ -1,0 +1,136 @@
+# Índice de material — Critical Latitude
+
+Coleta em 09/09/2026. Lista de vídeos: `site/src/data/videos.json`. Views e comentários são o retrato desta coleta; limite de 150 comentários por vídeo. Datas, títulos e durações da tabela seguem a lista solicitada.
+
+Transcrições integrais em inglês vieram das legendas do YouTube; descrições completas e capítulos, do yt-dlp do Studio; fontes, da exportação TXT dos Google Docs vinculados em Sources. “Não exposto” indica ausência do heatmap de trechos mais revistos, que não equivale à retenção privada do YouTube Analytics.
+
+| ID | Título | Data | Duração | Views | Comentários coletados | Transcrição | Fontes | Pico de retenção e fala |
+| --- | --- | --- | --- | ---: | ---: | --- | --- | --- |
+| jH7x2IAwQBM | Everything We Know About Krakatau's Eruption - Will Another Tsunami Strike? | 2026-09-08 | 16:39 | 286402 | 150 | ok | ok | Não exposto |
+| ZVOvGUOYC88 | The Only Earthquake Anyone Saw Coming - And Why It Never Happened Again | 2026-09-05 | 22:15 | 19230 | 46 | ok | ok | Não exposto |
+| IPcI5cSSrmE | Everything We Know About Nepal's Flood - And What Everyone Got Wrong | 2026-09-02 | 31:37 | 1493300 | 150 | ok | ok | Não exposto |
+| ijel4JHHypU | Nepal Flood: The Warning System Built for the Wrong Disaster | 2026-09-01 | 22:18 | 123915 | 150 | ok | ok | Não exposto |
+| g2595F_iCFA | California's Most Dangerous Fault Isn't Overdue — USGS Said Something Worse | 2026-08-31 | 14:25 | 139860 | 150 | ok | ok | Não exposto |
+| 2oECeSCLj2w | The Earthquake That Has Already Hit the Northwest 5 Times — And It Isn't the Big One | 2026-08-18 | 19:43 | 5999 | 35 | ok | ok | Não exposto |
+| W3Mhs1grXgU | The Deadliest Thing At Mammoth Mountain Isn't Lava — And That's Not The Worst Part | 2026-08-17 | 25:46 | 4522 | 26 | ok | ok | Não exposto |
+| xeWgmI_1pI4 | The New El Niño Is Breaking A 155-Year Record — Here Is Why | 2026-08-13 | 28:45 | 5288 | 47 | ok | ok | Não exposto |
+| I1DEAH2xRS0 | Scientists Say Alaska's 1,578 Foot Wave Missed the Tour Boats. Here's How Close It Came | 2026-08-07 | 18:39 | 7545 | 37 | ok | ok | Não exposto |
+| NmPOyD3nEL8 | Scientists Watch 5 Signs Before Mount St. Helens Erupts — Here's How Many Are Happening Now | 2026-08-05 | 20:13 | 15695 | 44 | ok | ok | Não exposto |
+| W08Ts6VOtls | Antarctica's 'Doomsday Glacier' Is About to Lose Its Brake - And America Gets Hit Hardest | 2026-08-03 | 20:26 | 51430 | 150 | ok | ok | Não exposto |
+| tXgyIxT6L68 | Campi Flegrei Just Had Its Strongest Earthquake In 40 Years - And 500,000 People Live Inside It | 2026-08-02 | 15:25 | 39945 | 150 | ok | ok | Não exposto |
+| kNxPtIbUd8o | When Cascadia Hits, This Coast Has 15 Minutes — And That's Not the Worst Part | 2026-07-31 | 17:34 | 142094 | 150 | ok | ok | 15:49 — Management Division hosts the walk time modeling. Oregon's Department of Geology and Mineral Industries publishes equivalent maps for its side of the river. These are public and free and |
+| 8fU91F9tFpY | Mount Rainier: The Disaster Waiting to Happen | 2026-07-29 | 20:09 | 26996 | 150 | ok | ok | Não exposto |
+
+Os três primeiros itens de cada vídeo resumem os comentários mais curtidos, incluindo respostas do próprio canal quando presentes no topo. Os dois últimos registram dúvidas e pedidos recorrentes da amostra. “Sintetizada” ou “agrupada” identifica uma formulação em português a partir de comentários sobre o mesmo assunto, não uma citação literal. As referências apresentadas são evidências de recorrência, não contagens exaustivas; não se afirma um ranking estatístico entre temas. Perguntas isoladas e ausência de uma segunda recorrência são indicadas. C001, C002 etc. remetem à ordenação de `comentarios.md`. Relatos, opiniões e alegações dos comentários não foram verificados como fatos. Textos originais preservados nos arquivos individuais.
+
+## jH7x2IAwQBM — Everything We Know About Krakatau's Eruption - Will Another Tsunami Strike?
+
+- C001 — @magrib.gaming, 85 likes: morador próximo relata o trauma familiar do tsunami de 2018 e agradece a explicação do colapso.
+- C002 — @807800, 44 likes: agradece o uso da pronúncia/nome Krakatau.
+- C003 — @rocosujero9596, 42 likes: elogia as informações e diz que inicialmente imaginou que a apresentadora fosse IA.
+- Pergunta recorrente: há IA na apresentadora ou na produção? Evidências: C056, C070 e C094.
+- Pedido recorrente: pode abordar futuros megaterremotos, incluindo Nankai e a Indonésia? Evidências: C090 e C124.
+
+## ZVOvGUOYC88 — The Only Earthquake Anyone Saw Coming - And Why It Never Happened Again
+
+- C001 — @michaelfrancisbelfast, 25 likes: diz ter visto todos os vídeos e elogia pesquisa, clareza e equilíbrio.
+- C002 — @violetevergarden-2, 20 likes: associa a resistência a evacuar à repetição de alarmes em alojamentos estudantis.
+- C003 — @criticallatitudetv, 15 likes: o próprio canal afirma que a apresentadora não é IA e informa o nome Gwen Silveira.
+- Dúvida recorrente, sintetizada: quais partes são humanas e quais usam IA? Evidências: C006, C009 e C027.
+- Segunda recorrência não demonstrável; pergunta isolada: animais marinhos poderiam perceber sinais antes de megaterremotos? C041.
+
+## IPcI5cSSrmE — Everything We Know About Nepal's Flood - And What Everyone Got Wrong
+
+- C001 — @pahtar7189, 1600 likes: relata que um telefonema e a evacuação ordenada por um diretor escolar salvaram mais de 900 pessoas; relato do comentarista.
+- C002 — @GuyONearth77, 917 likes: destaca a dificuldade de compreender o tamanho do bloco de montanha que caiu.
+- C003 — @brandihouk81, 431 likes: expressa horror diante da velocidade e destruição e solidariedade às vítimas.
+- Pergunta recorrente: a apresentadora ou o roteiro usam IA? Evidências: C025, C026 e C033.
+- Pedido recorrente: pode apresentar também medidas no sistema métrico? Evidências: C046, C063 e C090.
+
+## ijel4JHHypU — Nepal Flood: The Warning System Built for the Wrong Disaster
+
+- C001 — @MichaelBuckingham-hr6pr, 38 likes: elogia a explicação e diz não saber do segundo evento; mora próximo à zona de lahar do Rainier.
+- C002 — @robintan502, 36 likes: afirma que alguém filmou o deslizamento de um mirante na China sem reconhecê-lo inicialmente.
+- C003 — @allangibson8494, 36 likes: questiona a identificação e a contagem de mortos e desaparecidos; estimativas do comentarista, não verificadas nesta coleta.
+- Pergunta recorrente: de onde veio tanta água e qual foi a participação do gelo e das rochas? Evidências: C064, C126 e C139.
+- Pedido recorrente: onde estão os links das filmagens e o registro completo das câmeras? Evidências: C065, C066 e C150.
+
+## g2595F_iCFA — California's Most Dangerous Fault Isn't Overdue — USGS Said Something Worse
+
+- C001 — @joecserna, 81 likes: relembra Loma Prieta e Napa e recomenda plano familiar e mochila de emergência.
+- C002 — @Yagmurşmen2, 57 likes: divulga um livro de Dorian Calden com alegações de censura; comentário alheio ao tema, preservado na ordenação.
+- C003 — @ragtowne, 41 likes: descreve o chão ondulando, carros sacudindo e medo durante Loma Prieta.
+- Pedido recorrente: esclarecer ou reduzir o uso de IA nos roteiros e imagens. Evidências: C010, C013, C052, C069 e C147.
+- Pergunta recorrente: Gwen é uma pessoa real ou uma personagem de IA? Evidências: C071, C135 e C143.
+
+## 2oECeSCLj2w — The Earthquake That Has Already Hit the Northwest 5 Times — And It Isn't the Big One
+
+- C001 — @SeanThorntonMD, 6 likes: compara os terremotos de 1965 e Nisqually, incluindo danos e fuga de um hospital antigo.
+- C002 — @criticallatitudetv, 2 likes: o canal agradece o relato e manifesta alívio pela sobrevivência do comentarista e dos colegas.
+- C003 — @CALIRYD, 2 likes: relata Loma Prieta, preparação doméstica e preocupação com um amigo em Washington.
+- Dúvida recorrente, sintetizada: a apresentadora e seus movimentos são produzidos por IA? Evidências: C010, C028 e C029.
+- Segunda recorrência não demonstrável; pergunta isolada: como o concreto pode ondular e voltar aparentemente intacto? C024.
+
+## W3Mhs1grXgU — The Deadliest Thing At Mammoth Mountain Isn't Lava — And That's Not The Worst Part
+
+- C001 — @Sumone____oO0Oo, 4 likes: pede que o canal deixe de usar IA.
+- C002 — @juni674, 3 likes: compartilha lembranças da região, preocupação com evacuação e uma referência cinematográfica.
+- C003 — @FUNOW169, 2 likes: elogia a paisagem e diz ter visitado a região pela atividade vulcânica.
+- Dúvida recorrente, sintetizada: existe IA na apresentação ou no roteiro? Evidências: C001, C022 e C026.
+- Segunda recorrência não demonstrável; pergunta isolada: por qual estrada se chegaria a Mammoth pelo lado oeste? C013.
+
+## xeWgmI_1pI4 — The New El Niño Is Breaking A 155-Year Record — Here Is Why
+
+- C001 — @haithamal-arabi6864, 9 likes: considera a explicação de El Niño a melhor que já viu e elogia os vídeos sobre Nepal e terremotos.
+- C002 — @fossmountainfilm, 6 likes: pede continuidade dos vídeos educativos e diz ter se inscrito.
+- C003 — @Timeshot2, 4 likes: manifesta preocupação com cortes de orçamento e pessoal no NWS e na NOAA.
+- Dúvida recorrente, sintetizada: o canal usa IA? Evidências: C036 e C037.
+- Segunda recorrência não demonstrável; pergunta isolada: como sustentar o recorde de 155 anos se o comentarista considera que os registros começam em 1950? C041.
+
+## I1DEAH2xRS0 — Scientists Say Alaska's 1,578 Foot Wave Missed the Tour Boats. Here's How Close It Came
+
+- C001 — @theresaanderson742, 6 likes: elogia o canal.
+- C002 — @ChrisRubacher, 4 likes: relata ligação familiar com o Alasca, interesse por tsunamis de deslizamento e elogia os recursos visuais.
+- C003 — @deborahcrawford9079, 4 likes: resume sua reação dizendo que a natureza sempre vence.
+- Dúvida recorrente, sintetizada: a apresentadora é humana ou IA? Evidências: C006, C032 e C036.
+- Segunda recorrência não demonstrável; pergunta isolada: por que permitem barcos turísticos numa área tão perigosa? C010.
+
+## NmPOyD3nEL8 — Scientists Watch 5 Signs Before Mount St. Helens Erupts — Here's How Many Are Happening Now
+
+- C001 — @laurieevans7920, 5 likes: relembra a erupção quando tinha 11 anos e pessoas conhecidas que morreram.
+- C002 — @Llz6226, 5 likes: descreve escuridão ao meio-dia, cinzas e um pôr do sol marcante.
+- C003 — @jlb13157, 4 likes: relata ter evacuado Toutle e conhecido duas vítimas.
+- Dúvida recorrente, sintetizada: o roteiro ou a apresentadora são gerados por IA? Evidências: C017 e C020.
+- Segunda recorrência não demonstrável; pergunta isolada: a que ano se refere a expressão 'este ano' nos dados de julho? C018.
+
+## W08Ts6VOtls — Antarctica's 'Doomsday Glacier' Is About to Lose Its Brake - And America Gets Hit Hardest
+
+- C001 — @kanoabristol1979, 20 likes: relata fundações de antigas casas costeiras no Havaí atualmente submersas.
+- C002 — @susansweat9125, 19 likes: relata alagamentos em Miami mesmo em dias ensolarados, com água surgindo pelo solo.
+- C003 — @leokaloper4132, 15 likes: relata que a baixa do Danúbio revelou navios e artefatos da Segunda Guerra Mundial na Sérvia.
+- Dúvida recorrente, sintetizada: há IA no roteiro e na apresentadora? Evidências: C014, C018, C041 e C059.
+- Pergunta recorrente, agrupada: como o derretimento afetará clima, correntes e nível do mar? Evidências: C021, C100 e C110.
+
+## tXgyIxT6L68 — Campi Flegrei Just Had Its Strongest Earthquake In 40 Years - And 500,000 People Live Inside It
+
+- C001 — @andrewtaylor940, 32 likes: defende a classificação de supervulcão e manifesta preocupação com a atividade; posição do comentarista.
+- C002 — @boblordylordyhowie, 16 likes: atribui aos moradores a responsabilidade por viverem numa caldeira ativa.
+- C003 — @acgrillet, 14 likes: relaciona magnitudes recentes ao risco de colapso de casas; avaliação do comentarista.
+- Dúvida recorrente, sintetizada: como abandonar a região sem dinheiro, emprego ou destino alternativo? Evidências: C034, C042, C056 e C099.
+- Dúvida recorrente, sintetizada: a classificação de supervulcão implica que escala de erupção? Evidências: C001, C006, C028, C031 e C081.
+
+## kNxPtIbUd8o — When Cascadia Hits, This Coast Has 15 Minutes — And That's Not the Worst Part
+
+- C001 — @ricks4361, 102 likes: conta que se mudou do litoral para o interior ao considerar isolamento e reconstrução após um desastre.
+- C002 — @Rashnak66, 79 likes: considera que nenhum lugar está totalmente livre de desastres.
+- C003 — @steveallen4445, 67 likes: morador de Vancouver lembra que Cascadia também ameaça o Canadá.
+- Pergunta recorrente, agrupada: qual seria o risco na minha localidade, inclusive no interior e no Canadá? Evidências: C038, C048, C070 e C102.
+- Pergunta recorrente, agrupada: onde e como buscar refúgio ou evacuar? Evidências: C060, C061 e C111.
+
+## 8fU91F9tFpY — Mount Rainier: The Disaster Waiting to Happen
+
+- C001 — @michaelwright4199, 19 likes: relata exercícios escolares de evacuação e receio de que ônibus fiquem presos no trânsito antes de um lahar.
+- C002 — @TMcClean-m6f, 12 likes: morador de Washington agradece as informações.
+- C003 — @SoloActJeff, 9 likes: relata a descoberta de grandes troncos antigos em escavações profundas em Auburn.
+- Pergunta recorrente: por que construir ou permitir moradias em zonas conhecidas de lahar? Evidências: C106 e C117.
+- Dúvida recorrente, sintetizada: a evacuação escolar consegue evitar trânsito e atravessar o rio a tempo? Evidências: C001 e C008.

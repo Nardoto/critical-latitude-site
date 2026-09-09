@@ -1,0 +1,44 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+Nepal Flood: The Warning System Built for the Wrong Disaster
+Critical Latitude  -  123,9 mil views  -  1,1 mil likes (0.87%)  -  22:18  -  20260901
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  At 8:37 in the morning, Nepal time, on Wednesday, August 26, seismometers across Asia registered a shock near the Chinese border. The automatic processing did what it's built to do. It read the waves, solved for a location, and published a number. Magnitude 4.4 earthquake. 7 minutes later, security cameras at the Gayari Rong Port border crossing recorded water coming down the valley. The crossing is gone now. So is the customs complex and the highway that fed it and more than 300 vehicles that were parked there that morning. Six hydroelectric plants along one river system were damaged or destroyed. 41 bridges, 26 miles of road, which is 42
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  At 8:37 in the morning, Nepal time, on Wednesday, August 26, seismometers across Asia registered a shock near 
+  2:47  USGS describes it as high-grade metamorphic rock, which means nice and quartzite and marble. Stone that's been
+  5:34  and on to three more districts. Bodies were later recovered 240 km away, 150 mi, across the border in Uttar Pr
+  8:21  collapse and debris flow." End quote. So, that's it. That's the correction that was made. It went up on the sa
+  11:08  The physics of a falling mountain is not something you settle before lunch, and the people doing it were worki
+  13:55  told landslide 2 days later. That's the exact analysis the correction note is pointing at. Additional analysis
+  16:42  warn about. Now, the honest part about the numbers because you're going to see several and they don't quite ma
+  19:29  High ground doesn't mean far away necessarily, it just means up. In a valley like the one in Nepal, the differ
+
+(este video nao expoe a curva de retencao - normal em video novo ou com poucas views)
+
+COMENTARIOS MAIS CURTIDOS (116 do publico):
+  [     38 likes] Best video on this disaster that I've seen so far, thank you! Until this, I had no idea there was a second event which I had been wondering about for 
+  [     36 likes] someone actually witnessed and videoed it at a summit tourism viewing platform across the border in China from afar without initially knowing it was a
+  [     36 likes] The death rate is rising exponentially. Less than 10% of the recovered bodies have been matched to people listed as “missing”. To be listed as “missin
+  [     15 likes] They found a video now that showed the mountain collapsed first and triggered the upper and adjacent glacier to break
+  [     10 likes] Humans are needed to find the unknown. A system or procedure can quickly identify what it’s tuned for. But things change and vary. We still need eyeba
+  [      8 likes] Well done, thanks for that clear explanation, particularly of the detail of the way that the scientists were commenting on the calculation results and
+  [      6 likes] I believe your referring to the video of the mountain peaks above the cloud and the landslide and dust rising at the very bottom of the video
+  [      5 likes] @dan-bz7dz  I’d be hard pressed to believe anyone inside or around that building survived. You can see them running in the street as 50 feet of water,
+  [      5 likes] @FilesdocumentsAndreposit-kr3vb there wasn’t that many people in the area
+  [      5 likes] Magnitude, tornados, hurricanes, ratings and measurements are revised all the time actually, youd be surprised
+  [      4 likes] Yeah, but I’ve seen video explaining clearly that the most likely chain of events was ice melting leading to unfilled cracks in the rock (where the ic
+  [      4 likes] @Mic@MichaelBuckingham-hr6prstened to nearly half the video, questioning the entire time why it sounds so “off”. i finally looked at the video itself 
+  [      4 likes] This is by far the best and most descriptive video I’ve seen yet! Great job…
+  [      3 likes] ​ @FilesdocumentsAndreposit-kr3vb  No. 10kish? Most likely. Horrific either way.
+  [      3 likes] Not the warning system built for the wrong disaster but a warning system that needed to include landslide detection (if possible).
+  [      3 likes] 0:23 Security cameras did not record water. They recorded something, but it most likely was mostly rock rubble. About the ice melting, I did some calc
+  [      2 likes] I lived through Hurricane Helene in Western North Carolina & it totally blindsided even those who were prepared for a big storm. Helene caused 2000+ l
+  [      2 likes] I believe water melted down throw the rock and over the years of freeze an thaw made the hard rock fracture. Then the mountian side and the heavy ice 
+  [      2 likes] @mikellewis2346 This area had an earthquake in 2015 that is known to have caused many fractures, plus it has had major ongoing geological projects inv
+  [      2 likes] Succinct, excellent! Hyped, subscribed.
+
+JSON completo (curva inteira, 150 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\ijel4JHHypU\_motor\video-ijel4jhhypu.json

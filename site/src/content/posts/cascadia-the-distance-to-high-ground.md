@@ -6,53 +6,101 @@ category: tsunamis
 videoId: kNxPtIbUd8o
 videoTitle: "When Cascadia Hits, This Coast Has 15 Minutes — And That's Not the Worst Part"
 sources:
-  - label: "Source video and chapter list"
+  - label: "Critical Latitude — Cascadia evacuation time and vertical refuges"
     url: https://www.youtube.com/watch?v=kNxPtIbUd8o
-  - label: "Gwen's Cascadia references: Washington emergency management, Project Safe Haven, FEMA, and local plans"
-    url: https://tinyurl.com/criticallatitude12
+  - label: "Washington Emergency Management Division — Tsunami hazards and natural warnings"
+    url: https://mil.wa.gov/emergency-management-division/hazards/tsunami
+  - label: "Washington Emergency Management Division, 2021 — Outer-coast vertical evacuation assessment"
+    url: https://mil.wa.gov/news/outer-coast-tsunami-vertical-evacuation-assessment-completed
+  - label: "Washington, 2024 — Manual for Tsunami Vertical Evacuation Structures, second edition"
+    url: https://mil.wa.gov/asset/6723ccad3ed27/Manual%20for%20Tsunami%20Vertical%20Evacuation%20Structures%202nd%20Edition%202024.pdf
+  - label: "Degenkolb Engineers — Ocosta Elementary School tsunami evacuation design"
+    url: https://degenkolb.com/work/ocosta-elementary-school-tsunami-vertical-evacuation-building/
+  - label: "Washington Emergency Management Division — Ocosta school refuge and construction"
+    url: https://mil.wa.gov/news/nations-first-tsunami-vertical-evacuation-center-breaks-ground
+  - label: "Washington Emergency Management Division, 2022 — Shoalwater Bay tower dedication"
+    url: https://mil.wa.gov/news/celebrating-nations-first-tsunami-vertical-evacuation-tower
+  - label: "OPB, August 8, 2022 — Shoalwater Bay tower and modeled evacuation times"
+    url: https://www.opb.org/article/2022/08/08/coastal-washington-shoalwater-bay-indian-tribe-earthquake-tsunami/
+  - label: "FEMA — Westport vertical evacuation project, grant and capacity"
+    url: https://www.fema.gov/node/465491
+  - label: "Oregon Legislature — House Bill 3309, 2019 measure record"
+    url: https://olis.oregonlegislature.gov/liz/2019R1/Measures/Overview/HB3309
+  - label: "DOGAMI, 2003 — Development in Oregon's tsunami inundation zone, O-03-05"
+    url: https://pubs.oregon.gov/dogami/ofr/O-03-05.pdf
+  - label: "DOGAMI — Oregon tsunami evacuation maps and GIS"
+    url: https://www.oregon.gov/dogami/tsuclearinghouse/pages/pubs-gis.aspx
+  - label: "Washington DNR — Tsunami hazard and evacuation mapping"
+    url: https://geologyportal.dnr.wa.gov/#tsu
+  - label: "NANOOS — Tsunami evacuation walk-time modeling"
+    url: https://nvs.nanoos.org/TsunamiEvac
 tags: [Cascadia, vertical evacuation, Washington, coastal planning]
 draft: false
 ---
-A warning is useful only if people have somewhere they can reach. That is the practical problem at the center of Gwen's Cascadia investigation. The video looks at coastal communities where the distance to high ground can be longer than the time available in the event being discussed.
+There's a stretch of the Washington coast where an hour of walking has to fit into about 15 minutes. It cannot. That is the reason for tsunami evacuation towers.
 
-The description presents a magnitude 9 Cascadia earthquake and a tsunami reaching the coast in 15 to 20 minutes. Those values describe the event framing used in the video. They are not a clock that starts when someone opens this article, and they are not a site-specific evacuation estimate for every address on the Pacific Northwest coast.
+In the Westport scenario, a local Cascadia earthquake produces several minutes of shaking, followed by only about 10 to 15 minutes before the first wave arrives. Washington's evacuation studies identify places on the outer coast where walking out of the inundation zone can take an hour or more. Damaged bridges, broken roads and liquefied ground make that gap harder to close.
 
-## Put time and distance on the same page
+I want to keep the place attached to those numbers. A 15-minute window at one location is not a timetable for the whole Pacific Northwest. At Tokeland, the planning figures discussed here allow roughly 35 minutes for wave arrival and about 15 to 20 minutes to walk to the refuge.
 
-The investigation names Ocean Shores, Long Beach, and Westport as places where long sand spits complicate the journey to high ground. The description contrasts a 15-minute window with a walk that would take an hour. That mismatch is the reason the story turns to engineering.
+The geography decides whether that difference helps. Much of the outer coast is low ground surrounded by water, with natural high ground several miles away. If people cannot reach safety horizontally, an engineered place to climb gives them another route.
 
-The exact route matters as much as the general instruction to leave a low area. A household reading this article should not substitute a straight line on a map for an official evacuation route. The video establishes the problem; current local maps and authorities establish the routes and destinations people should use.
+Washington's 2021 outer-coast assessment identified a need for at least 58 and potentially more than 80 vertical evacuation structures. The problem had been mapped. The next question was how to build enough reachable places for the people inside those maps.
 
-It is also worth asking whose journey a plan describes. A visitor needs to recognize an unfamiliar street. A household may need to account for mobility assistance. These are planning questions raised by the distance problem, not additional measured outcomes claimed by the video.
+## A refuge has to survive the shaking and the water
 
-## Why vertical evacuation enters the discussion
+A tsunami refuge faces two disasters in sequence. First comes a large earthquake. Then moving water reaches a structure that may already have been shaken hard, carrying logs, boats, vehicles and pieces of buildings.
 
-Gwen's next chapters introduce vertical evacuation and Project Safe Haven. Within this investigation, the purpose of a vertical evacuation structure is to address the gap between nearby low ground and distant natural high ground. The question is where an engineered destination can make safety reachable.
+Washington's *Manual for Tsunami Vertical Evacuation Structures*, second edition, 2024, lays out the loads engineers must consider. Hydrodynamic force is water pushing against the structure. Buoyancy tries to lift it. Debris impact is a solid object arriving at speed.
 
-This does not mean that any tall building becomes an evacuation structure. The video points to a design manual and specific built projects. A reader needs the designation and instructions of the relevant local authority, rather than a personal judgment based on a building's height or appearance.
+Debris damming is a different problem: wreckage collects against columns and makes the structure present a much larger surface to the flow. Scour is the current removing soil around the foundations. Height alone does not answer any of those demands.
 
-The engineering discussion is therefore inseparable from public planning. A structure must be considered alongside the people it serves, the routes that connect them to it, and the instructions available before an emergency. The article does not provide design specifications; the video and its linked manual are the route to that technical detail.
+Project Safe Haven, developed through the University of Washington and Washington Emergency Management Division in 2010 and 2011, explored towers, engineered berms and buildings with refuge space on their roofs. An engineered hill can look like a park while doing the same essential job as a platform.
 
-## Follow the built examples
+The locations were chosen around where people spend their days and how far they could realistically travel. That is the part I keep returning to. A refuge with room for hundreds of people helps only those who can reach it before the water. Its capacity and its walking catchment are two different measurements.
 
-The investigation visits the Ocosta project, the Shoalwater Bay tower at Tokeland, and Westport's marina tower. The description identifies these as the three structures built in Washington State at the time covered by the video.
+## A school roof and a tribal tower
 
-Each example is a named place rather than a generic promise of protection. The source list includes the Shoalwater Bay Indian Tribe's own operations manual, Washington emergency management material, and engineering references. That local documentation matters when moving from the idea of a tower to how a particular facility is intended to be used.
+Ocosta Elementary School in Westport opened its tsunami refuge in 2016. The roof of the gymnasium can hold more than 1,000 people. Degenkolb Engineers, the structural engineer of record, describes a platform about 55 feet above sea level and roughly 28 feet above the surrounding ground.
 
-The article does not certify present access, capacity, or operational status. Those details can change and are not supplied in the description. Anyone planning a visit should use the current official information for the specific destination.
+Those two heights use different reference points. The distinction matters when comparing a platform with modeled water levels. The foundations extend about 50 feet down past vulnerable soil layers, and access is provided from outside the building.
 
-## Separate the inventory from the need
+The school district had to pay for a replacement school. After two failed votes, a $13.8 million bond passed in April 2013 with 69.78 percent support. There were 875 yes votes. A small community financed a school whose roof had another job to do.
 
-Gwen contrasts the built examples with a county table describing a need for 58 to 80 structures. That range belongs to the planning material discussed in the video. It should not be read as a fresh inventory assembled for this website.
+At Tokeland, the Shoalwater Bay Indian Tribe dedicated a freestanding evacuation tower on August 5, 2022. It stands 50 feet tall, with decks at 40 and 50 feet and support piers extending 55 feet below ground. Its capacity exceeds 400 people, and the tribe made it available to anyone in the area during a disaster.
 
-The difference between the existing examples and the stated need is the central public question. An individual household can learn a route, but it cannot create a regional network of evacuation structures on its own. The investigation gives that shared responsibility a concrete form.
+Washington Emergency Management's dedication account records $1.2 million in tribal funding and more than $3 million from FEMA. The OPB account gives the 15-to-20-minute walk and roughly 35-minute wave arrival estimates. The margin exists because refuge is close to the people who need it. Visitors are included in that purpose.
 
-The video also discusses a change in Oregon law concerning development in a tsunami inundation zone. This article does not restate that discussion as current legal advice. Readers can follow the chapter and the linked legislative record to understand the issue as reported, then check the current rules with the responsible authority.
+## The gap between a map and a funded structure
 
-## Make the local question specific
+The county totals in Washington's 2021 assessment show the scale: 25 to 40 structures for Pacific County, 30 to 42 for Grays Harbor, and one to three for Clallam. These are planning ranges, not a list of buildings already available for evacuation.
 
-The video's closing question asks whether residents and visitors knew where the nearest high ground or evacuation structure was before watching. That is a useful place to begin a conversation at home, provided the answer comes from a current local plan.
+The Westport Marina District project illustrates the time and funding involved. FEMA's project record describes a $16.7 million grant awarded in November 2023 and a planned capacity of 2,000 people. A planned or funded tower should not be treated as an available refuge until it has opened.
 
-Write down the official destination, locate the relevant map, and discuss the needs of the people who would be making the journey. Treat uncertain route details as questions for local emergency management, rather than filling them in from a regional video.
+The different projects also came together differently. Ocosta used a local school bond. Shoalwater Bay combined tribal funds with a federal grant. Westport relied heavily on a competitive federal award. Recognizing a hazard does not itself put construction money in a small community's budget.
 
-Cascadia reporting can easily become a discussion of a very large earthquake. Gwen brings it back to a smaller, more immediate piece of geography: the ground between a person and a place of safety. That is where the planning problem becomes real.
+Across the Columbia River, Oregon made another consequential decision. Senate Bill 379 restricted new essential facilities in tsunami inundation zones in 1995. House Bill 3309 removed that prohibition in 2019. That did not erase Oregon's evacuation maps or stop every local safety project; DOGAMI continues to provide mapping.
+
+I lived in the Pacific Northwest, in the Vancouver area, from about eight to twelve years old. I remember wondering why people lived near hazards adults discussed so seriously. Work, family and community are part of the answer. Building and funding decisions have to contend with that reality over the decades a school will remain occupied.
+
+## Walk the route from the place you actually use
+
+The first practical step is finding the inundation map for the exact location. Washington DNR publishes tsunami hazard and evacuation mapping. NANOOS provides evacuation walk-time modeling, and Oregon's DOGAMI publishes maps for its coast.
+
+Then walk the route. Use the place you actually start from: the house, workplace, school or beach. Driving the route does not tell you how long it takes on foot, and a normal walking time does not include every obstacle a strong earthquake could create.
+
+If a designated refuge is nearby, look at the access in daylight. Know which stairway or ramp serves the route. A familiar entrance is one less thing to work out when roads, signs and landmarks may be damaged.
+
+For a local tsunami, strong or prolonged shaking is itself a natural warning. Protect yourself during the shaking, then move toward high ground or a designated refuge as soon as you can safely move. Do not make receiving a siren or phone message a condition for leaving the hazard zone.
+
+A rooftop refuge also leaves a second problem to solve: waiting after the water arrives. It may be cold and wet, and help may take days. The structure's immediate purpose is survival above the tsunami. It does not automatically supply everything a person needs afterward.
+
+## What people asked
+
+**Does living inland, or in Canada, remove the risk?** Readers raised locations from coastal communities to Tacoma and the Fraser Valley. A Washington outer-coast wave time cannot answer those questions. Shaking, liquefaction and tsunami inundation have different geographic footprints. Use the mapping and emergency plans for the actual jurisdiction; an international border is not a geological boundary.
+
+**Could a tall tree or an ordinary high-rise replace a tower?** Height is only one requirement. A designated refuge is evaluated for shaking, debris, flowing water and foundation scour. This evidence does not establish an ordinary building or a tree as a substitute. A visible high point and a verified evacuation destination are different things.
+
+**Why don't towers solve the shelter and supply problem too?** Readers asked about water, rain protection and communication equipment. Those are reasonable questions for a refuge's operator. The capacity figure alone does not answer them, and the material here does not establish what each site stocks. Plan around the designated facility's actual arrangements.
+
+The question I want answered before a visit is specific: from this spot, on foot, where is the designated safe place, and how long does reaching it take? That answer changes along the coast. It is worth knowing before the ground moves.

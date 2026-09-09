@@ -1,0 +1,70 @@
+# Fontes — Nepal Flood: The Warning System Built for the Wrong Disaster
+
+ID: ijel4JHHypU  
+URL: https://www.youtube.com/watch?v=ijel4JHHypU  
+Duração: 22:18  
+Data: 2026-09-01
+
+## Documento 1
+
+Link da descrição: https://tinyurl.com/critical24  
+Destino: https://docs.google.com/document/d/14bCorsBbfasw85UFyZCliGk8PoHQa-xdO1AFr-UEyos/edit?usp=sharing  
+Exportação: https://docs.google.com/document/d/14bCorsBbfasw85UFyZCliGk8PoHQa-xdO1AFr-UEyos/export?format=txt  
+Estado: ok  
+Coletado em: 2026-09-09T16:31:35.9546714-03:00
+
+### Texto integral do documento, incluindo suas referências
+
+Sources - The Earthquake the USGS Took Back
+The corrected record
+USGS event us7000tbwb, the primary event page. Carries the revised solution the whole video is built on: event type landslide, magnitude 5.2 (ms_vx), depth 0 km, status reviewed, and the agency's own correction note
+https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbwb/executive
+The same event queried directly from the USGS FDSN event API. This is where the raw origin parameters are readable in full: num-phases-used 0, standard-error 11.91, depth 0, event-type landslide, review-status reviewed
+https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tbwb&format=geojson
+USGS event us7000tc90, the second event. Magnitude 4.2, status reviewed, 3 hours and 8 minutes after the first, identified in post-processing with no alert issued at the time
+https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc90/executive
+USGS Landslide Hazards Program special event page for the 2026 Nepal debris avalanche and flash flood. The agency's consolidated write-up, linked from the correction note itself
+https://www.usgs.gov/programs/landslide-hazards/science/2026-nepal-debris-avalanche-and-flash-flood
+How a landslide is read out of a seismogram
+Ekstrom and Stark, "Simple scaling of catastrophic landslide dynamics," Science, 2013, volume 339, pages 1416-1419. The method behind the correction: large landslides make weak short-period signal but powerful long-period waves, and the force history recovered from those waves gives mass, duration, and runout
+https://www.science.org/doi/10.1126/science.1232887
+Dave Petley, The Landslide Blog, Eos (American Geophysical Union), post on the 26 August 2026 catastrophic debris flow in Nepal and Tibet. Source for the rock and ice avalanche interpretation, the fall off the north flank below the Langtang Lirung summit, and the explicit finding that this was not a glacial lake outburst flood
+https://eos.org/thelandslideblog/26-august-2026-nepal-and-tibet
+GFZ Helmholtz Centre for Geosciences, Potsdam, press release on the extreme flash flood in China and Nepal. Source for the competing magnitude: GFZ measured Mw 5.7 for the same signal that USGS put at 5.2
+https://www.gfz.de/en/press/news/details/extreme-sturzflut-in-china-und-nepal
+What happened on the ground
+Al Jazeera, what happened, what caused it, and who is missing. Background on the sequence, the Nepal-China border crossing, and the international dimension
+https://www.aljazeera.com/news/2026/8/27/nepal-tibet-floods-what-happened-what-caused-them-and-who-is-missing
+Bloomberg, satellite images showing damage to homes, power plants and bridges along the flood path
+https://www.bloomberg.com/graphics/2026-nepal-flash-flood/
+The Kathmandu Post, flood damage to Nepal's hydropower sector. Source for the scale of the generation loss and the plants strung along the same river. Note that published capacity figures vary between outlets and remain provisional
+https://kathmandupost.com/national/2026/08/30/flood-damage-to-nepal-s-hydropower-sector-could-run-into-billions
+CNN live coverage, August 30, 2026, on the search for missing hydropower workers
+https://www.cnn.com/2026/08/30/world/live-news/nepal-china-flood
+The precedent and the American case
+Shugar et al., "A massive rock and ice avalanche caused the 2021 disaster at Chamoli, Indian Himalaya," Science, 2021. Source for the Chamoli comparison: roughly 27 million cubic meters of rock and glacier ice off the north face of Ronti Peak on February 7, 2021, and the same hazard cascade into hydropower infrastructure
+https://www.science.org/doi/10.1126/science.abh4455
+USGS, Monitoring Lahars at Mount Rainier. Source for the US parallel and for the practical section: what is monitored, what the warning system is, and why the instruction is high ground on foot
+https://www.usgs.gov/volcanoes/mount-rainier/science/monitoring-lahars-mount-rainier
+City of Puyallup, Washington, regional lahar evacuation drill. Evidence that the drill is a real, recurring, publicly scheduled civic exercise rather than a hypothetical
+https://www.puyallupwa.gov/1987/2026-Regional-Lahar-Evacuation-Drill
+
+## Todas as URLs das fontes
+
+- https://tinyurl.com/critical24
+- https://docs.google.com/document/d/14bCorsBbfasw85UFyZCliGk8PoHQa-xdO1AFr-UEyos/edit?usp=sharing
+- https://docs.google.com/document/d/14bCorsBbfasw85UFyZCliGk8PoHQa-xdO1AFr-UEyos/export?format=txt
+- https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbwb/executive
+- https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tbwb&format=geojson
+- https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc90/executive
+- https://www.usgs.gov/programs/landslide-hazards/science/2026-nepal-debris-avalanche-and-flash-flood
+- https://www.science.org/doi/10.1126/science.1232887
+- https://eos.org/thelandslideblog/26-august-2026-nepal-and-tibet
+- https://www.gfz.de/en/press/news/details/extreme-sturzflut-in-china-und-nepal
+- https://www.aljazeera.com/news/2026/8/27/nepal-tibet-floods-what-happened-what-caused-them-and-who-is-missing
+- https://www.bloomberg.com/graphics/2026-nepal-flash-flood/
+- https://kathmandupost.com/national/2026/08/30/flood-damage-to-nepal-s-hydropower-sector-could-run-into-billions
+- https://www.cnn.com/2026/08/30/world/live-news/nepal-china-flood
+- https://www.science.org/doi/10.1126/science.abh4455
+- https://www.usgs.gov/volcanoes/mount-rainier/science/monitoring-lahars-mount-rainier
+- https://www.puyallupwa.gov/1987/2026-Regional-Lahar-Evacuation-Drill

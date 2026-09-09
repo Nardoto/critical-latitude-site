@@ -1,0 +1,43 @@
+﻿Sources — Antarctica's 'Doomsday Glacier' Is About to Lose Its Brake
+Educational breakdown of Thwaites Glacier and U.S. sea level rise. Not a prediction that a collapse is imminent.
+The glacier itself
+International Thwaites Glacier Collaboration, glacier facts — the 4 percent share of global sea level rise, the 65 cm figure for a total loss, and the drainage basin the size of Great Britain
+https://thwaitesglacier.org/about/facts
+International Thwaites Glacier Collaboration programme page, British Antarctic Survey — the joint UK-US research effort placing instruments on and under the glacier
+https://www.bas.ac.uk/project/international-thwaites-glacier-collaboration/
+What the Icefin robot found
+Schmidt et al. 2023, Nature — the 600 m borehole, suppressed basal melt across the flat underside, and warm water held above freezing in the cavity
+https://www.nature.com/articles/s41586-022-05586-0
+Davis et al. 2023, Nature — heterogeneous melting near the grounding line: the terraces, the crevasses, and the far faster melt on their steep walls
+https://www.nature.com/articles/s41586-022-05691-0
+The Eastern Ice Shelf, 2021 to 2026
+Erin Pettit at the American Geophysical Union meeting, December 2021 — the warning that the shelf could shatter within as little as five years
+https://www.cnbc.com/2021/12/13/a-major-antarctic-ice-shelf-could-shatter-within-five-years.html
+Columbia Climate School coverage of the same AGU 2021 result, including the windshield-crack analogy
+https://news.climate.columbia.edu/2021/12/17/crucial-antarctic-glacier-likely-to-collapse-much-earlier-than-expected/
+Science, 2026 — the ice shelf flow speed tripling to just over 2,000 m per year and the fractures opening around the pinning point
+https://www.science.org/content/article/ice-shelf-holding-back-keystone-antarctic-glacier-within-years-failure
+Robert Larter, British Antarctic Survey, 2026 — the shelf is very likely to break up this year, with western-side movement roughly doubling in eight months
+https://www.livescience.com/planet-earth/antarctica/poised-to-disintegrate-antarcticas-doomsday-glacier-is-set-to-lose-its-ice-shelf-this-year
+The ice cliff correction and the long-run projections
+Morlighem et al. 2024, Science Advances — three ice sheet models tested marine ice cliff instability, found a roughly 135 m threshold, and showed Thwaites fairly stable through 2100
+https://www.science.org/doi/10.1126/sciadv.ado7794
+Dartmouth College news release on that study — the author's caution that marine ice cliff instability is only one mechanism of ice loss and the finding does not mean Thwaites is stable
+https://home.dartmouth.edu/news/2024/08/study-finds-highest-prediction-sea-level-rise-unlikely
+Goldberg et al., Geophysical Research Letters, March 2026 — the projection that Thwaites alone could be losing 180 to 200 gigatonnes a year by 2067
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118823
+Why the U.S. East Coast gets more than the global average
+NASA, the fingerprints of sea level rise — the gravitational mechanism, and the extra 14 to 15 inches on the U.S. East Coast above a four-foot global rise once the Amundsen Sea sector is gone
+https://science.nasa.gov/earth/climate-change/the-fingerprints-of-sea-level-rise/
+The U.S. coastline baseline
+NOAA 2022 Sea Level Rise Technical Report — the multi-agency projection of an additional 10 to 12 inches of U.S. sea level rise by 2050 and the high tide flooding day counts
+https://earth.gov/sealevel/us/resources/2022-sea-level-rise-technical-report/
+NOAA news release on that report — as much sea level rise in the next 30 years as in the previous 100, and coastal flooding more than 10 times as often
+https://www.noaa.gov/news-release/us-coastline-to-see-up-to-foot-of-sea-level-rise-by-2050
+Check your own address
+NOAA Sea Level Rise Viewer — see what a given amount of water does to a specific stretch of coastline
+https://coast.noaa.gov/slr/
+FEMA Flood Map Service Center — the official flood map lookup by address
+https://msc.fema.gov/portal/search
+FloodSmart, the National Flood Insurance Program — flood damage is not covered by a standard homeowners policy, and there is typically a 30-day waiting period before a new policy takes effect
+https://www.floodsmart.gov/

@@ -1,0 +1,43 @@
+Abrindo o video (metadados, retencao e comentarios)...
+Pegando a transcricao...
+
+The Deadliest Thing At Mammoth Mountain Isn't Lava — And That's Not The Worst Part
+Critical Latitude  -  4,5 mil views  -  203 likes (4.49%)  -  25:46  -  20260817
+
+ABERTURA (o gancho, primeiros 45 segundos):
+  In April of 2006, three members of the Mammoth Mountain Ski Patrol went out to fix a fence. The fence was there because it surrounded a fumarole, a vent in the mountain where volcanic gas comes out of the ground. Snow had built up around it and the fencing needed to be moved. All three of them fell into a pit in the snow and all three of them died. Nothing erupted that day. There was no lava, no ash, no explosion, no warning siren. What killed them was carbon dioxide coming up out of the rock, odorless and invisible, heavier than the air, filling a hole in the snowpack the way water fills a bucket. Those three men were killed by a volcano. They were killed by the same volcano that 10 million
+
+ESQUELETO (o que e dito ao longo do video):
+  0:00  In April of 2006, three members of the Mammoth Mountain Ski Patrol went out to fix a fence. The fence was ther
+  3:12  evidence. Long Valley is an oval depression about 32 km by 16, which is roughly 20 mi by 11. From the road, it
+  6:25  southern margin of the caldera. Four events over magnitude five in three days under a place that had been geol
+  9:38  continued across the whole caldera, consistent with something happening in the deeper part of the system at 10
+  12:51  ones that generate all these headlines, are consistent with fluids and gases being squeezed out and released a
+  16:04  moderate in size. Within Long Valley proper, the most likely event is lava fountaining that builds a scoria co
+  19:17  hazards in the United States that is treated as an everyday operational risk by a business. In this case, a sk
+  22:30  Don't dig into or descend into any snow pits, tree wells, or depressions near vents, or in the tree kill zones
+
+(este video nao expoe a curva de retencao - normal em video novo ou com poucas views)
+
+COMENTARIOS MAIS CURTIDOS (19 do publico):
+  [      4 likes] Stop using AI ffs
+  [      3 likes] If anyone is interested. There is a Clint Eastwood movie titled "High Plains Drifter" was filmed entirely up there. I have been there several times. I
+  [      2 likes] Beautiful area. I went there because of the volcanic activity
+  [      1 likes] I have driven or ridden as passenger along hwy 395 every year of my life.  I've been a student of geology since I was a young child, Mammoth's shenani
+  [      1 likes] You cannot drive to Mammoth from Shaver Lake and 168 east out of Fresno.  Hwy 168 ends at Huntington Lake or the western part does.  168 East starts a
+  [      1 likes] This sounds almost like Yellowstone.
+  [      1 likes] In case you care: Mono is said moe-noe. Thanks.♥
+  [      0 likes] I grew up there. The volcanic legacy isn't just common knowledge, it's part of the recreational features that drive the tourism: from Mono Lake, to th
+  [      0 likes] I knew, but I’m a nerd. The cinder cones are kind of a giveaway. Most of my friends probably have no idea
+  [      0 likes] Oooh, I live in the PNW now, but the first 12 years of my life we lived in the Bay Area. An aunt and uncle owned a cabin on Mammoth Mtn and that was o
+  [      0 likes] Another excellent video. Thank you! I think I'd rather stay at Mammoth mountain than Naples with its scary supervolcano. Co2, earthquakes, land rising
+  [      0 likes] @malachev was going to say, which road are you taking to Mammoth from the western side? I live in Clovis as well and we love the Sierra.  Only way you
+  [      0 likes] Hey, live In tahoe, go to mammoth every year to snowboard, the mountain is nuts. There’s a monument for those patrollers up top by the gondola, and ye
+  [      0 likes] Excellent presentation of real information   Well-Made
+  [      0 likes] ​ @criticallatitudetv While in the area HOT CREEK is a must see. My 1st time was in 1990, you were able to soak in the creek. Not anymore.
+  [      0 likes] Yeah I’m all for using tools to make research more accessible but the “it isn’t ___, it’s ___” is such an annoying AI tic
+  [      0 likes] @criticallatitudetv  ❤
+  [      0 likes] You're so pretty. You have good information too.
+  [      0 likes] is this AI?
+
+JSON completo (curva inteira, 26 comentarios, transcricao): C:\Users\tharc\Documents\site critical\projetos\critical-latitude-site\docs\videos\W3Mhs1grXgU\_motor\video-w3mhs1grxgu.json

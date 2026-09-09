@@ -6,57 +6,85 @@ category: preparedness
 videoId: g2595F_iCFA
 videoTitle: "California's Most Dangerous Fault Isn't Overdue — USGS Said Something Worse"
 sources:
-  - label: "Source video: Hayward Fault and the HayWired scenario"
+  - label: "Critical Latitude — Hayward Fault and the HayWired scenario"
     url: https://www.youtube.com/watch?v=g2595F_iCFA
-  - label: "Gwen's Hayward and HayWired references"
-    url: https://tinyurl.com/critical26
-  - label: "The Emergency Preparedness Guide — official product listing"
-    url: https://payhip.com/b/GWENV
+  - label: "Brocher et al., USGS Fact Sheet 2018-3052 — The Hayward Fault and the 1868 earthquake"
+    url: https://pubs.usgs.gov/publication/fs20183052
+  - label: "UC Berkeley Seismology Lab — Hayward Fault hazards and Memorial Stadium"
+    url: https://earthquakes.berkeley.edu/hayward/hayward_hazards.html
+  - label: "USGS Fact Sheet 2018-3016 — The HayWired earthquake scenario: We can outsmart disaster"
+    url: https://pubs.usgs.gov/publication/fs20183016
+  - label: "USGS Scientific Investigations Report 2017-5013, volume 2 — The HayWired Earthquake Scenario: Engineering Implications"
+    url: https://pubs.usgs.gov/publication/sir20175013v2
+  - label: "USGS — ShakeAlert earthquake early warning"
+    url: https://www.usgs.gov/programs/earthquake-hazards/shakealert
+  - label: "Alameda County Water District — Alvarado-Niles Pipeline seismic improvements"
+    url: https://www.acwd.org/594/Alvarado-Niles-Pipeline-Seismic-Improvem
 tags: [household planning, emergency kit, preparedness, HayWired]
 draft: false
 ---
-An emergency bag is a place to put supplies. A household plan also needs a place for decisions: who needs help, where information comes from, and which details everyone should be able to find. Gwen's Hayward Fault investigation provides a concrete reason to think about that larger task.
+More than 22,000 people stuck in elevators. That was the number I kept returning to in the HayWired earthquake scenario. More than 2,500 people would need rescue from collapsed buildings, but roughly nine times as many would need help getting out of stalled elevator cars.
 
-The video moves from a fault beneath familiar places to the consequences examined in the HayWired scenario. Its description includes East Bay neighborhoods without water for six weeks. That figure is not a personal supply instruction. It is a prompt to examine how a household depends on systems outside its own walls.
+The power drops. The car stops between floors. There are only so many crews available, and those same crews have fires and damaged buildings to reach. An earthquake plan has to account for that ordinary trip between floors as well as the extraordinary image of a building coming down.
 
-## Begin with the questions raised by the video
+HayWired is the USGS's hypothetical magnitude 7.0 earthquake on the Hayward Fault, beginning beneath Oakland. Its 2018 fact sheet and engineering volume examine what happens across the Bay Area when shaking reaches buildings, water systems, electricity and the people depending on them. Nobody scheduled that earthquake. The researchers chose an event and followed its consequences.
 
-The planning value of HayWired does not depend on predicting when an earthquake will happen. The scenario describes consequences under specified assumptions. A household can use it to identify topics that need attention without treating the modeled event as a scheduled emergency.
+I want to start a household plan there, with the things an ordinary day assumes will work. A building stays usable. Water comes out of the tap. An elevator reaches its floor. Help can get through. The scenario shows how several of those assumptions can fail together, even for someone who survives the shaking without injury.
 
-Ask which local hazards are covered by the official plan for your area. Ask where the household would find a current warning or service notice. Ask whether everyone knows the difference between a general explanation of risk and a live instruction that applies to them.
+## The bag cannot decide whether the building stays up
 
-These are discussion prompts, not a replacement for local guidance. Their purpose is to make the next information request specific. “We need a plan” is difficult to act on; “we need to find the utility's emergency notices” identifies a task someone can complete.
+The Hayward Fault crosses more than 300 buildings and structures, according to Brocher and colleagues' 2018 USGS fact sheet. At UC Berkeley, it passes directly beneath California Memorial Stadium. The stadium's retrofit is a response to a known physical problem: the ground underneath can move in different directions.
 
-## Put useful information somewhere findable
+The fault also creeps at about 5 millimeters a year near the surface. That does not settle the earthquake question. The shallow moving section sits above locked sections, and creep plus small earthquakes account for only about one third of the long-term movement. There is still strain accumulating below.
 
-The guide's printable format is built around bringing household information together. The guide preview includes contact details, documents, and written medical information. The practical idea is simple: decide what information the household needs to locate, then give it an agreed place.
+For a household, the equivalent distinction is between having supplies and knowing something about the structure holding them. An emergency bag is useful, but it does not strengthen a building. The work that changes how a building performs has to happen before the ground moves.
 
-Discuss who should be able to use that information and how to protect sensitive details. A contact card and a document folder serve different purposes. A household should decide what belongs in each rather than putting every personal record in the same place by default.
+The 1868 Hayward earthquake makes that concrete. It had an estimated magnitude of 6.8, lasted more than 40 seconds, and destroyed or badly damaged almost every building in a town of roughly 500 people. Today's population and infrastructure are different, but the physical question remains recognizable.
 
-Paper can be a useful part of that arrangement, but the article does not claim that a particular format guarantees access. The question is whether the people who need the information can find and understand it under the conditions they are planning for.
+A plan therefore starts with the places people actually occupy: home, work, school, and the buildings between them. The stadium example shows that a known fault problem can be engineered around. It does not certify an unrelated building.
 
-## Make the plan fit the people using it
+## There is a response to practice before an alert
 
-A checklist becomes more useful when it reflects the household rather than an imagined average person. Discuss mobility, communication, caregiving, and the ordinary tasks that require assistance. Include the people affected in that conversation wherever possible.
+ShakeAlert detects an earthquake after it begins. Instruments identify the faster initial waves, and the system can send an alert before stronger shaking reaches some locations. That is early warning, with the available time depending on where the earthquake starts and where you are.
 
-For medication and medical equipment, identify the professional who can help establish an appropriate plan. This article does not set a medication supply duration, change treatment, or give equipment operating instructions. Those details require advice suited to the person and device involved.
+The USGS HayWired analysis estimated that a fully operational system, combined with people taking protective action, could reduce the scenario's injuries from structural damage. The protective response is to drop, cover and hold on. The alert and the response belong together in that estimate; receiving the message is only the first step.
 
-The guide preview's emphasis on written information offers a starting point for those conversations. The work is to capture the agreed details accurately and make sure the responsible people know where they are kept. An attractive worksheet cannot substitute for a decision that has not been made.
+This is why a household conversation has to reach everyone. A phone receiving a message does not mean each person knows what it means or can react in the same way. The useful question is what each person would actually do in the place where they spend the day.
 
-## Keep the bag connected to the wider plan
+It also means we should not plan around a guaranteed warning interval. Someone close to the source may have little or no advance notice of strong shaking. Waiting for a message cannot be the condition for responding to shaking already happening.
 
-The guide's go-bag page asks readers to think about a bag they can actually carry and a place they would actually leave from. That is a useful question for a household to discuss. A bag should be considered alongside the person's needs and the official instructions relevant to the situation.
+I went looking for a reliable sign that tells us a large Hayward earthquake is about to occur. The scientific record does not provide one. That makes a practiced response more valuable, because there is no dependable preliminary event to remind the household to learn it.
 
-This article does not prescribe a universal inventory or ask readers to derive one from the HayWired scenario. A prolonged service disruption and a need to leave home are different planning questions. The available video description does not turn them into the same event for every household.
+## Water changes whether a home is usable
 
-Use the checklist as a place to record decisions made with current guidance. Where a question remains open, leave it visible and identify the source that can answer it. Filling every box is less useful than noticing which decision still needs attention.
+HayWired estimates around 77,000 households displaced by building damage alone. Include utility outages and the modeled number rises to about 152,000 households, approximately 411,000 people in the scenario's population accounting. Those figures come from a particular model and its demographic assumptions.
 
-## Give contacts and responsibilities a clear home
+The difference between the two household totals deserves attention. A structure can survive the shaking while losing the services needed to live in it. A plan organized only around visible damage would miss that second group.
 
-Discuss who would seek updates, who might need help understanding them, and how the household would communicate a change of plan. A contact entry is useful only when the people involved understand why it is there and what role it serves.
+For East Bay water service, the scenario describes disruption averaging about six weeks, with some customers facing as long as six months. That is much longer than the initial period of shaking, rescue and fire response. A few bottles do not answer a regional restoration problem.
 
-The fridge card and wallet cards shown on the guide page offer different places for short information. They can support a household conversation about what should remain at home and what someone should carry. The preview is an illustration of the format, not a live alert or a personalized emergency instruction.
+The household question is therefore larger than what fits in one bag. Where would supplies remain accessible if part of the building could not be entered? Who depends on an uninterrupted service? Where would the family get the utility's restoration information, and what would make staying at home impractical?
 
-Review the current product listing for the included files, price, and purchase terms. The official guide is linked below. The companion video is Gwen's Hayward investigation, which supplies the scenario and the planning questions explored in this article.
+Those are planning questions drawn from the scenario, not a claim that every address will lose water for six weeks. Restoration depends on which parts of the network fail and how repairs proceed. The point is to think past a house that looks intact from the street.
 
-Preparedness works best here as a series of concrete questions with named sources and agreed responsibilities. The research explains why the questions matter. Current authorities and relevant professionals provide the practical guidance. The household's task is to bring those answers together in a plan the people involved can use.
+## Shared infrastructure is part of the household plan
+
+More than 400 fires appear in HayWired's modeled sequence, associated with gas and electrical damage. At the same time, water systems are damaged and people need rescue. These demands overlap. A household cannot assume that help will arrive on the timetable of an ordinary service call.
+
+The engineering volume, *The HayWired Earthquake Scenario — Engineering Implications*, is useful because it examines those demands together. Its casualty and rescue estimates identify work that could be reduced by strengthening systems beforehand. They are not a claim that researchers know the future occupants of every building.
+
+One practical example is already underground. Alameda County Water District's Alvarado-Niles Pipeline seismic improvements replace rigid pipe at a Hayward Fault crossing with pipe designed to accommodate ground movement. The idea is to keep carrying water while the ground changes position.
+
+That is what I mean when I say the things that change the outcome are often unremarkable. A pipe joint. A retrofit. A building standard. An alert that someone understands. They do not offer a dramatic date, but they change what happens when the fault slips.
+
+For a household, preparation includes knowing which of these protections exist where you live and which questions remain unanswered. Supplies help bridge an interruption. Public infrastructure and building performance help determine how long that interruption lasts and whether the household can remain there at all.
+
+## What people asked
+
+**Is a stocked emergency bag enough?** Several readers described supplies, stored water and a family plan; some also considered keeping supplies outside the main structure. The issue is access as well as quantity. A bag you cannot reach does not solve the immediate problem, and supplies alone cannot replace a functioning water network over a long outage. Work through those dependencies with the whole household.
+
+**Do the elevator numbers mean every elevator becomes a death trap?** No. The figure concerns people needing rescue in one modeled Bay Area event. Readers' understandable alarm should not turn it into a prediction about a particular trip, building or another California city. A stalled elevator and a collapsed building are different rescue situations.
+
+**Could an alert make an elevator stop safely at a floor?** Readers raised this as an engineering response to the rescue burden. The idea requires a compatible, deliberately designed control system. The material here does not establish that a particular building has it, or how much warning that building would receive. That is a specific question for its operator.
+
+What I want the household to have is a shared understanding of these ordinary dependencies. The bag is one part. The rest is knowing what happens when the building, the water and the usual route through the day stop working together.

@@ -1,0 +1,37 @@
+﻿Sources - The Only Earthquake Anyone Saw Coming (Critical Latitude)
+Research sources for the Critical Latitude video on the 1975 Haicheng and 1976 Tangshan earthquakes. This video is educational history and science. It is not a prediction that any earthquake is imminent.
+The archive study this video is built on
+Wang, Chen, Sun and Wang (2006), "Predicting the 1975 Haicheng Earthquake," Bulletin of the Seismological Society of America 96(3), 757-795. The declassified provincial and county documents, telephone logs, meeting minutes and 2004 interviews with surviving earthquake workers. Source for: two official middle-term predictions and no official short-term prediction; the Yingkou County party committee meeting at 8:15 in the morning on February 4th; the 10:30 provincial telephone distribution reaching the county at 11:30; Zhu Fengming's Earthquake Information bulletin no. 14 and his stated one-to-two-week time frame; the Shipengyu observatory log recording 501 earthquakes between midday February 3rd and 6:30 in the evening February 4th; the January 18th pig pen entry; the February 10th, 1975 restricted national bulletin that produced the clean four-stage version; the 153 deaths in Haicheng town and the 44 in the guest house; the verdict "a blend of confusion, empirical analysis, intuitive judgment and good luck."
+https://pubs.geoscienceworld.org/ssa/bssa/article/96/3/757/146795/Predicting-the-1975-Haicheng-Earthquake
+The two earthquakes
+U.S. Geological Survey event page for the February 4th, 1975 Haicheng earthquake, listed by the USGS at magnitude 7.0 and located 6 km east of Dashiqiao, Liaoning Province, China. The Chinese measurement of the same event is magnitude 7.3.
+https://earthquake.usgs.gov/earthquakes/eventpage/usp00009ss/executive
+U.S. Geological Survey event page for the July 28th, 1976 Tangshan earthquake, listed by the USGS at magnitude 7.5. The Chinese measurement is magnitude 7.8. Official Chinese death toll 242,769.
+https://earthquake.usgs.gov/earthquakes/eventpage/usp0000hjg/executive
+U.S. Geological Survey publication record, "The 1976 Tangshan earthquake." Background on the rupture, the 3:42 a.m. local timing, the shallow focal depth beneath the urban area and the epicentral intensity.
+https://pubs.usgs.gov/publication/70162500
+The lives-saved number
+Haicheng Earthquake Study Delegation (1977), "Prediction of the Haicheng Earthquake," Eos, Transactions American Geophysical Union 58(5), 236-272. The original American report. Source for the sentence that has been misquoted for fifty years: that casualties in excess of 100,000 would ordinarily have been anticipated. Casualties, meaning dead and injured, not deaths.
+https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/EO058i005p00236
+Wyss and Wu (2014), "How Many Lives were Saved by the Evacuation before the M 7.3 Haicheng Earthquake of 1975?", Seismological Research Letters 85(1), 126-129. The only peer-reviewed estimate: roughly 8,000 deaths and 27,000 injuries prevented, with an error bar of 60 percent either way, which puts the honest range at about 3,000 to 13,000 lives saved.
+https://pubs.geoscienceworld.org/ssa/srl/article/85/1/126/315306/How-Many-Lives-were-Saved-by-the-Evacuation-before
+The USGS position on earthquake prediction
+U.S. Geological Survey FAQ, "Can you predict earthquakes?" The agency states that neither the USGS nor any other scientists have ever predicted a major earthquake, that it does not know how, and that it does not expect to know how in the foreseeable future. Also the source for the three-part standard a prediction has to meet: the date and time, the location, and the magnitude.
+https://www.usgs.gov/faqs/can-you-predict-earthquakes
+Parkfield
+U.S. Geological Survey, the Parkfield Earthquake Experiment. The magnitude 6 earthquake predicted to occur before 1993, and the densest instrument deployment on any fault on Earth.
+https://earthquake.usgs.gov/learn/parkfield/
+U.S. Geological Survey, the scientific basis of the Parkfield prediction. The recurrence record the forecast was built on.
+https://earthquake.usgs.gov/learn/parkfield/scibasis.php
+Bakun et al. (2005), "Implications for prediction and hazard assessment from the 2004 Parkfield earthquake," Nature 437, 969-974. The earthquake arrived in September 2004, eleven years after the window closed, and the instruments recorded no short-term precursory signal. Even micro-earthquakes down to magnitude 0 were absent from the epicentral area in the six days before the rupture.
+https://www.nature.com/articles/nature04067
+Qinglong County
+United Nations global programme case study of Qinglong County and the 1976 Tangshan earthquake. The unofficial internal view circulated in mid-July 1976, the county secretary's July 24th emergency warning issued on his own authority, roughly 60 percent of residents out of their homes by the 26th, more than 180,000 buildings damaged and over 7,000 collapsed, and one death in the county, from a heart attack.
+http://www.global-watch.org/qinglong/qinglong2.html
+"Early Warning Success for the 1976 Tangshan Earthquake: A Best Practice Integrating Public Administration and Science." Peer-reviewed account of the same Qinglong County sequence.
+https://link.springer.com/chapter/10.1007/978-3-642-55903-7_62
+ShakeAlert
+U.S. Geological Survey, Earthquake Early Warning overview. ShakeAlert detects an earthquake that has already started and races the shaking with a radio signal. It is detection, not prediction.
+https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-early-warning-overview
+ShakeAlert frequently asked questions, including the agency's own "ShakeAlert is Not Earthquake Prediction" explainer, and the reality that a rupture directly underneath you gives you no warning at all.
+https://www.shakealert.org/faq/
