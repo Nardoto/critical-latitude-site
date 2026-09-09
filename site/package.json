@@ -1,0 +1,20 @@
+{
+  "name": "critical-latitude",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "verify": "node scripts/verify-build.mjs"
+  },
+  "dependencies": {
+    "astro": "7.3.2",
+    "@astrojs/rss": "4.0.19",
+    "@astrojs/sitemap": "3.7.4"
+  },
+  "devDependencies": { "@astrojs/check": "^0.9.9", "typescript": "^5.9.3" }
+}

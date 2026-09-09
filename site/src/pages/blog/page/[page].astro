@@ -1,0 +1,23 @@
+---
+import BlogIndex from '../../../components/BlogIndex.astro';
+import { getPosts, type Post } from '../../../lib/posts';
+
+const PER_PAGE = 10;
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  const totalPages = Math.max(1, Math.ceil(posts.length / 10));
+  const pages = [];
+  for (let page = 2; page <= totalPages; page++) {
+    pages.push({
+      params: { page: String(page) },
+      props: { posts: posts.slice((page - 1) * 10, page * 10), currentPage: page, totalPages },
+    });
+  }
+  return pages;
+}
+
+interface Props { posts: Post[]; currentPage: number; totalPages: number }
+const { posts, currentPage, totalPages } = Astro.props;
+---
+<BlogIndex posts={posts.slice(0, PER_PAGE)} currentPage={currentPage} totalPages={totalPages} />

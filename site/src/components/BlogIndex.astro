@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import PostCard from './PostCard.astro';
+import type { Post } from '../lib/posts';
+interface Props { posts: Post[]; currentPage: number; totalPages: number }
+const { posts, currentPage, totalPages } = Astro.props;
+const pageUrl = (page: number) => page === 1 ? '/blog/' : `/blog/page/${page}/`;
+---
+<Base title={currentPage === 1 ? 'Articles' : `Articles — page ${currentPage}`} description="Read Gwen's field notes on earthquakes, volcanoes, coastal risk, climate, and the everyday systems people depend on.">
+  <header class="page-heading topographic"><div class="container"><p class="eyebrow">THE CRITICAL LATITUDE JOURNAL</p><h1>The field notes</h1><p>What the research says. What it leaves open. What it means for the people who live there.</p></div></header>
+  <div class="container editorial-section"><div class="post-grid">{posts.map(post => <PostCard post={post} />)}</div><nav class="pagination" aria-label="Article pages">{currentPage > 1 ? <a class="button button-outline" rel="prev" href={pageUrl(currentPage - 1)}>← Newer articles</a> : <span />}<p>Page {currentPage} of {totalPages}</p>{currentPage < totalPages ? <a class="button button-outline" rel="next" href={pageUrl(currentPage + 1)}>Older articles →</a> : <span />}</nav></div>
+</Base>

@@ -1,0 +1,6 @@
+---
+import BlogIndex from '../../components/BlogIndex.astro';
+import { getPosts } from '../../lib/posts';
+const posts = await getPosts();
+---
+<BlogIndex posts={posts.slice(0, 10)} currentPage={1} totalPages={Math.max(1, Math.ceil(posts.length / 10))} />

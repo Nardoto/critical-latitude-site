@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+import { categories, categorySlugs, type Category } from '../../data/categories';
+import { getPosts, type Post } from '../../lib/posts';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return categorySlugs.map((slug) => ({
+    params: { slug },
+    props: { slug, posts: posts.filter((post) => post.data.category === slug) },
+  }));
+}
+
+interface Props { slug: Category; posts: Post[] }
+const { slug, posts } = Astro.props;
+const category = categories[slug];
+const count = posts.length === 1 ? '1 article' : `${posts.length} articles`;
+---
+<Base title={category.name} description={category.description}>
+  <header class="page-heading topographic"><div class="container"><p class="eyebrow">EXPLORE BY SUBJECT · {count.toUpperCase()}</p><h1>{category.name}</h1><p>{category.description}</p></div></header>
+  <div class="container editorial-section">
+    {posts.length > 0
+      ? <div class="post-grid">{posts.map((post) => <PostCard post={post} />)}</div>
+      : <p class="related-note">No articles in this subject yet. <a href="/blog/">Browse all articles</a>.</p>}
+    <h2 class="more-heading">Other subjects</h2>
+    <ul class="category-list">{categorySlugs.filter((other) => other !== slug).map((other) => <li><a href={`/category/${other}/`}>{categories[other].name}</a></li>)}</ul>
+  </div>
+</Base>

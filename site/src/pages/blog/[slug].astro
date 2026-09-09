@@ -1,0 +1,81 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import LiteYouTube from '../../components/LiteYouTube.astro';
+import GuideCTA from '../../components/GuideCTA.astro';
+import PostCard from '../../components/PostCard.astro';
+import { categories } from '../../data/categories';
+import { disclaimer, siteName } from '../../data/site';
+import { formatDate, getPosts, postUrl, readingTime, type Post } from '../../lib/posts';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return posts.map((post) => ({ params: { slug: post.id }, props: { post, posts } }));
+}
+
+interface Props { post: Post; posts: Post[] }
+const { post, posts } = Astro.props;
+const { Content, headings } = await render(post);
+const toc = headings.filter((heading) => heading.depth === 2);
+const category = categories[post.data.category];
+const minutes = readingTime(post);
+const thumbnail = `https://img.youtube.com/vi/${post.data.videoId}/hqdefault.jpg`;
+const videoUrl = `https://www.youtube.com/watch?v=${post.data.videoId}`;
+
+const others = posts.filter((candidate) => candidate.id !== post.id);
+const sameCategory = others.filter((candidate) => candidate.data.category === post.data.category);
+const hasRelated = sameCategory.length > 0;
+const suggestions = [...sameCategory, ...others.filter((candidate) => candidate.data.category !== post.data.category)].slice(0, 3);
+
+const canonical = new URL(postUrl(post), Astro.site).href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.pubDate.toISOString(),
+  dateModified: post.data.pubDate.toISOString(),
+  mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+  image: [thumbnail],
+  articleSection: category.name,
+  keywords: post.data.tags.join(', '),
+  author: { '@type': 'Person', name: 'Gwen', url: new URL('/about/', Astro.site).href },
+  publisher: { '@type': 'Organization', name: siteName, logo: { '@type': 'ImageObject', url: new URL('/logo.png', Astro.site).href } },
+  video: { '@type': 'VideoObject', name: post.data.videoTitle, url: videoUrl, embedUrl: `https://www.youtube-nocookie.com/embed/${post.data.videoId}`, thumbnailUrl: thumbnail, uploadDate: post.data.pubDate.toISOString() },
+};
+---
+<Base title={post.data.title} description={post.data.description} image={thumbnail} imageAlt={post.data.videoTitle} type="article" jsonLd={jsonLd}>
+  <article class="article-paper">
+    <div class="article-width">
+      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/blog/">Articles</a><span aria-hidden="true">/</span><a href={`/category/${post.data.category}/`}>{category.name}</a></nav>
+      <header class="article-header">
+        <a class="category-label" href={`/category/${post.data.category}/`}>{category.name}</a>
+        <h1>{post.data.title}</h1>
+        <p class="article-deck">{post.data.description}</p>
+        <div class="post-meta"><span>By Gwen</span><time datetime={post.data.pubDate.toISOString()}>{formatDate(post.data.pubDate)}</time><span>{minutes} min read</span></div>
+      </header>
+      <LiteYouTube videoId={post.data.videoId} title={post.data.videoTitle} />
+      {toc.length > 1 && (
+        <nav class="toc" aria-labelledby="toc-title">
+          <h2 id="toc-title">In this article</h2>
+          <ol>{toc.map((heading) => <li><a href={`#${heading.slug}`}>{heading.text}</a></li>)}</ol>
+        </nav>
+      )}
+      <div class="prose"><Content /></div>
+      <section class="sources" aria-labelledby="sources-title">
+        <h2 id="sources-title">Sources</h2>
+        <ul>{post.data.sources.map((source) => <li><a href={source.url} rel="noopener">{source.label}</a></li>)}</ul>
+      </section>
+      <p class="disclaimer">{disclaimer}</p>
+      {post.data.tags.length > 0 && <ul class="tags" aria-label="Tags">{post.data.tags.map((tag) => <li>{tag}</li>)}</ul>}
+      <GuideCTA />
+    </div>
+  </article>
+  {suggestions.length > 0 && (
+    <section class="container editorial-section" aria-labelledby="more-title">
+      <h2 id="more-title" class="more-heading">{hasRelated ? `More on ${category.name.toLowerCase()}` : 'More to explore'}</h2>
+      {!hasRelated && <p class="related-note">Related articles in {category.name} will appear here as the archive grows. Until then, three more investigations from the channel.</p>}
+      <div class="post-grid">{suggestions.map((candidate) => <PostCard post={candidate} />)}</div>
+    </section>
+  )}
+</Base>

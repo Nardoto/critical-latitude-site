@@ -1,0 +1,36 @@
+---
+const path = Astro.url.pathname;
+const links = [['/blog/', 'Articles'], ['/videos/', 'Videos'], ['/about/', 'About']];
+---
+<header class="site-header">
+  <div class="container nav-inner">
+    <a class="brand" href="/" aria-label="Critical Latitude home"><img src="/logo.png" alt="" width="62" height="62" /><span class="brand-name">CRITICAL LATITUDE<span>SCIENCE. PLACE. PEOPLE.</span></span></a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation"><span></span><span></span><span></span></button>
+    <nav id="primary-nav" class="primary-nav" aria-label="Main navigation">
+      {links.map(([href, label]) => <a href={href} aria-current={path.startsWith(href) ? 'page' : undefined}>{label}</a>)}
+      <a href="/rss.xml">RSS</a><a class="button button-small" href="/guide/" aria-current={path === '/guide/' ? 'page' : undefined}>Get the Guide <span aria-hidden="true">↗</span></a>
+    </nav>
+  </div>
+</header>
+<script>
+  const button = document.querySelector<HTMLButtonElement>('.menu-toggle')!;
+  const navigation = document.querySelector<HTMLElement>('#primary-nav')!;
+  const desktop = window.matchMedia('(min-width: 1024px)');
+  document.documentElement.classList.add('js');
+  function closeMenu(focus = false) {
+    navigation.classList.remove('is-open');
+    button.setAttribute('aria-expanded', 'false');
+    button.setAttribute('aria-label', 'Open navigation');
+    if (focus) button.focus();
+  }
+  button.addEventListener('click', () => {
+    const open = button.getAttribute('aria-expanded') !== 'true';
+    navigation.classList.toggle('is-open', open);
+    button.setAttribute('aria-expanded', String(open));
+    button.setAttribute('aria-label', open ? 'Close navigation' : 'Open navigation');
+  });
+  document.addEventListener('keydown', (event) => { if (event.key === 'Escape' && button.getAttribute('aria-expanded') === 'true') closeMenu(true); });
+  document.addEventListener('click', (event) => { if (event.target instanceof Element && !event.target.closest('.site-header')) closeMenu(); });
+  navigation.addEventListener('click', (event) => { if (event.target instanceof Element && event.target.closest('a') && !desktop.matches) closeMenu(); });
+  desktop.addEventListener('change', () => closeMenu());
+</script>

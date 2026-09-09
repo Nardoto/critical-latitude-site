@@ -1,0 +1,27 @@
+---
+interface Props { videoId: string; title: string }
+const { videoId, title } = Astro.props;
+---
+<figure class="source-video">
+  <div class="lite-video" data-video-id={videoId} data-video-title={title}>
+    <a class="video-trigger" href={`https://www.youtube.com/watch?v=${videoId}`} aria-label={`Play video: ${title}`}><img src={`https://img.youtube.com/vi/${videoId}/hqdefault.jpg`} width="480" height="360" alt="" loading="lazy" /><span class="lite-play" aria-hidden="true">▶</span><span class="video-prompt">Play source video</span></a>
+  </div>
+  <figcaption>{title} · <a href={`https://www.youtube.com/watch?v=${videoId}`}>Watch on YouTube</a></figcaption>
+</figure>
+<script>
+  document.querySelectorAll<HTMLElement>('.lite-video').forEach((container) => {
+    const link = container.querySelector<HTMLAnchorElement>('.video-trigger')!;
+    const button = document.createElement('button');
+    button.type = 'button'; button.className = link.className;
+    button.setAttribute('aria-label', link.getAttribute('aria-label')!);
+    button.append(...link.childNodes); link.replaceWith(button);
+    button.addEventListener('click', () => {
+      const iframe = document.createElement('iframe');
+      iframe.src = `https://www.youtube-nocookie.com/embed/${container.dataset.videoId}?autoplay=1&rel=0`;
+      iframe.title = container.dataset.videoTitle!;
+      iframe.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+      iframe.allowFullscreen = true; iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+      container.replaceChildren(iframe); iframe.focus();
+    }, { once: true });
+  });
+</script>

@@ -1,0 +1,517 @@
+{
+  "checks": [
+    {
+      "name": "390px /about/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /blog/a-household-plan-beyond-the-emergency-bag/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /blog/cascadia-the-distance-to-high-ground/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /blog/el-nino-what-a-record-claim-needs/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /blog/hayward-fault-without-the-countdown/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /blog/haywired-six-weeks-without-water/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /blog/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /blog/krakatau-the-mountainside-and-the-sea/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /blog/nepal-when-detection-is-not-a-warning/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /blog/thwaites-reading-past-the-doomsday-label/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /category/earthquakes/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /category/extreme-weather/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /category/glaciers-and-sea-level/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /category/infrastructure/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /category/landslides-and-lahars/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /category/preparedness/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /category/tsunamis/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /category/volcanoes/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /guide/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "390px /videos/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /about/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /blog/a-household-plan-beyond-the-emergency-bag/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /blog/cascadia-the-distance-to-high-ground/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /blog/el-nino-what-a-record-claim-needs/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /blog/hayward-fault-without-the-countdown/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /blog/haywired-six-weeks-without-water/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /blog/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /blog/krakatau-the-mountainside-and-the-sea/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /blog/nepal-when-detection-is-not-a-warning/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /blog/thwaites-reading-past-the-doomsday-label/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /category/earthquakes/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /category/extreme-weather/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /category/glaciers-and-sea-level/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /category/infrastructure/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /category/landslides-and-lahars/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /category/preparedness/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /category/tsunamis/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /category/volcanoes/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /guide/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "1440px /videos/",
+      "passed": true,
+      "details": {
+        "overflow": false,
+        "h1": 1,
+        "background": "rgb(15, 33, 55)"
+      }
+    },
+    {
+      "name": "Mobile menu initially collapsed",
+      "passed": true
+    },
+    {
+      "name": "Mobile menu opens",
+      "passed": true
+    },
+    {
+      "name": "Escape closes menu and restores focus",
+      "passed": true
+    },
+    {
+      "name": "Desktop navigation survives resizing",
+      "passed": true
+    },
+    {
+      "name": "Native FAQ works with keyboard",
+      "passed": true
+    },
+    {
+      "name": "Guide purchase goes to Payhip",
+      "passed": true
+    },
+    {
+      "name": "Player has no initial iframe",
+      "passed": true
+    },
+    {
+      "name": "Player creates privacy-enhanced iframe on keyboard activation",
+      "passed": true
+    },
+    {
+      "name": "Comfortable article typography",
+      "passed": true,
+      "details": {
+        "font": "18px",
+        "lineHeight": "29.7px",
+        "width": 794.875
+      }
+    },
+    {
+      "name": "Every generated TOC target exists",
+      "passed": true
+    },
+    {
+      "name": "Without JS: navigation stays visible",
+      "passed": true
+    },
+    {
+      "name": "Without JS: player becomes YouTube link",
+      "passed": true
+    },
+    {
+      "name": "Without JS: content remains readable",
+      "passed": true
+    },
+    {
+      "name": "Contrast #C9D3DF on #16304D",
+      "passed": true,
+      "details": "8.87"
+    },
+    {
+      "name": "Contrast #E8A33D on #16304D",
+      "passed": true,
+      "details": "6.23"
+    },
+    {
+      "name": "Contrast #1B2A3A on #F3EFE6",
+      "passed": true,
+      "details": "12.72"
+    },
+    {
+      "name": "Contrast #52606B on #F3EFE6",
+      "passed": true,
+      "details": "5.64"
+    },
+    {
+      "name": "Contrast #825011 on #F3EFE6",
+      "passed": true,
+      "details": "5.89"
+    },
+    {
+      "name": "Contrast #FFFFFF on #B5352E",
+      "passed": true,
+      "details": "5.98"
+    },
+    {
+      "name": "Contrast #0F2137 on #E8A33D",
+      "passed": true,
+      "details": "7.53"
+    },
+    {
+      "name": "No browser script errors",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "No broken local requests",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "pageErrors": [],
+  "localErrors": [],
+  "externalFailures": [],
+  "screenshots": [
+    "home-390.png",
+    "guide-390.png",
+    "article-390.png",
+    "home-1440.png",
+    "guide-1440.png",
+    "article-1440.png"
+  ],
+  "imageState": [
+    {
+      "src": "http://127.0.0.1:53812/logo.svg",
+      "loaded": true
+    },
+    {
+      "src": "https://img.youtube.com/vi/jH7x2IAwQBM/hqdefault.jpg",
+      "loaded": true
+    },
+    {
+      "src": "https://img.youtube.com/vi/ijel4JHHypU/hqdefault.jpg",
+      "loaded": true
+    },
+    {
+      "src": "https://img.youtube.com/vi/g2595F_iCFA/hqdefault.jpg",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:53812/logo.svg",
+      "loaded": true
+    }
+  ]
+}

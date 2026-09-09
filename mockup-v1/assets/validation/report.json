@@ -1,0 +1,263 @@
+{
+  "checkedAt": "2026-09-09T17:43:08.947Z",
+  "protocol": "file://",
+  "checks": [
+    {
+      "name": "All ten sections (header + 8 main sections + footer)",
+      "passed": true
+    },
+    {
+      "name": "One main heading and five FAQ questions",
+      "passed": true
+    },
+    {
+      "name": "Two editable price placeholders",
+      "passed": true
+    },
+    {
+      "name": "Internal anchors resolve",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Local logo images load and have alt attributes",
+      "passed": true
+    },
+    {
+      "name": "Both requested fonts load",
+      "passed": true
+    },
+    {
+      "name": "Eleven reference checklist entries",
+      "passed": true
+    },
+    {
+      "name": "Reduced-motion preference respected",
+      "passed": true
+    },
+    {
+      "name": "Core text color pairs meet AA (4.5:1)",
+      "passed": true,
+      "details": [
+        {
+          "foreground": "--white",
+          "background": "--navy",
+          "ratio": 16.24
+        },
+        {
+          "foreground": "--muted",
+          "background": "--navy-card",
+          "ratio": 8.87
+        },
+        {
+          "foreground": "--navy",
+          "background": "--gold",
+          "ratio": 7.53
+        },
+        {
+          "foreground": "--white",
+          "background": "--red",
+          "ratio": 5.98
+        },
+        {
+          "foreground": "--ink",
+          "background": "--paper",
+          "ratio": 12.72
+        },
+        {
+          "foreground": "--paper-muted",
+          "background": "--paper",
+          "ratio": 5.64
+        },
+        {
+          "foreground": "--gold-ink",
+          "background": "--paper",
+          "ratio": 5.89
+        },
+        {
+          "foreground": "--gold",
+          "background": "--navy-deep",
+          "ratio": 8.2
+        }
+      ]
+    },
+    {
+      "name": "No horizontal overflow at 1440px",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "No horizontal overflow at 390px",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Mobile menu opens",
+      "passed": true
+    },
+    {
+      "name": "Escape closes menu and restores focus",
+      "passed": true
+    },
+    {
+      "name": "Mobile navigation scrolls and closes",
+      "passed": true
+    },
+    {
+      "name": "FAQ opens one answer at a time",
+      "passed": true
+    },
+    {
+      "name": "FAQ supports keyboard activation",
+      "passed": true
+    },
+    {
+      "name": "Visible focus indicator",
+      "passed": true
+    },
+    {
+      "name": "Checkout placeholder has an honest local notice",
+      "passed": true
+    },
+    {
+      "name": "privacy footer link works",
+      "passed": true
+    },
+    {
+      "name": "terms footer link works",
+      "passed": true
+    },
+    {
+      "name": "contact footer link works",
+      "passed": true
+    },
+    {
+      "name": "No-JS navigation remains visible",
+      "passed": true
+    },
+    {
+      "name": "No-JS FAQ remains functional",
+      "passed": true
+    },
+    {
+      "name": "Offline fallback fits mobile",
+      "passed": true
+    },
+    {
+      "name": "No page errors",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "No console errors",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Only Google Fonts requested externally",
+      "passed": true,
+      "details": [
+        "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Oswald:wght@500;600;700&display=swap",
+        "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+        "https://fonts.gstatic.com/s/oswald/v57/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYg.woff2"
+      ]
+    }
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "height": 5740,
+      "overflowing": []
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "height": 10454,
+      "overflowing": []
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "requests": [
+    "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Oswald:wght@500;600;700&display=swap",
+    "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+    "https://fonts.gstatic.com/s/oswald/v57/TK3IWkUHHAIjg75cFRf3bXL8LICs1_Fv40pKlN4NNSeSASz7FmlWHYg.woff2"
+  ],
+  "structure": {
+    "sections": 8,
+    "header": true,
+    "footer": true,
+    "h1": 1,
+    "questions": 5,
+    "prices": [
+      "$XX",
+      "$XX"
+    ],
+    "missingAnchors": [],
+    "imagesHaveAlt": true,
+    "fonts": {
+      "oswald": true,
+      "inter": true
+    },
+    "headingFont": "Oswald, \"Arial Narrow\", Impact, sans-serif",
+    "checklist": [
+      "Photocopies of ID, Medicare/insurance cards, and prescription list (in a zip-top bag)",
+      "Copies of deed/lease, insurance policies, and key contacts (or a USB drive with scans)",
+      "Cash in small bills — ATMs and card readers fail with the power",
+      "Spare house and car keys",
+      "7-day supply of every medication, in original labeled bottles if possible",
+      "Written medication list: drug, dose, schedule, prescriber (worksheet in Ch. 12)",
+      "Spare eyeglasses (an old prescription beats none)",
+      "Hearing aid batteries or charger — a week's worth",
+      "Spare cane / walking aid if you use one",
+      "Denture care, incontinence supplies, any daily medical items",
+      "First aid kit, hand sanitizer, N95 masks"
+    ],
+    "reducedMotion": "auto"
+  },
+  "contrast": [
+    {
+      "foreground": "--white",
+      "background": "--navy",
+      "ratio": 16.24
+    },
+    {
+      "foreground": "--muted",
+      "background": "--navy-card",
+      "ratio": 8.87
+    },
+    {
+      "foreground": "--navy",
+      "background": "--gold",
+      "ratio": 7.53
+    },
+    {
+      "foreground": "--white",
+      "background": "--red",
+      "ratio": 5.98
+    },
+    {
+      "foreground": "--ink",
+      "background": "--paper",
+      "ratio": 12.72
+    },
+    {
+      "foreground": "--paper-muted",
+      "background": "--paper",
+      "ratio": 5.64
+    },
+    {
+      "foreground": "--gold-ink",
+      "background": "--paper",
+      "ratio": 5.89
+    },
+    {
+      "foreground": "--gold",
+      "background": "--navy-deep",
+      "ratio": 8.2
+    }
+  ],
+  "passed": true
+}

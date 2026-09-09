@@ -1,0 +1,37 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { defaultSocialImage, siteName } from '../data/site';
+import '../styles/mockup.css';
+import '../styles/global.css';
+interface Props {
+  title: string; description: string; image?: string; imageAlt?: string;
+  type?: 'website' | 'article'; jsonLd?: Record<string, unknown>; noindex?: boolean;
+}
+const { title, description, image = defaultSocialImage, imageAlt = 'Critical Latitude — science, place, people', type = 'website', jsonLd, noindex = false } = Astro.props;
+const pageTitle = `${title} | ${siteName}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const socialImage = new URL(image, Astro.site);
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title><meta name="description" content={description} />
+    <meta name="theme-color" content="#0F2137" /><link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+    <meta property="og:site_name" content={siteName} /><meta property="og:locale" content="en_US" />
+    <meta property="og:type" content={type} /><meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} /><meta property="og:url" content={canonical} />
+    <meta property="og:image" content={socialImage} /><meta property="og:image:alt" content={imageAlt} />
+    <meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} /><meta name="twitter:image" content={socialImage} /><meta name="twitter:image:alt" content={imageAlt} />
+    <link rel="icon" type="image/png" href="/logo.png" />
+    <link rel="alternate" type="application/rss+xml" title="Critical Latitude" href="/rss.xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;family=Oswald:wght@500;600;700&amp;display=swap" />
+    {jsonLd && <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd).replace(/</g, '\\u003c')} />}
+    <slot name="head" />
+  </head>
+  <body><a class="skip-link" href="#main">Skip to content</a><Header /><main id="main" tabindex="-1"><slot /></main><Footer /></body>
+</html>

@@ -1,0 +1,9 @@
+---
+import Base from '../layouts/Base.astro';
+import videos from '../data/videos.json';
+import { playlists } from '../data/playlists';
+import { formatDate } from '../lib/posts';
+const assigned = new Set(playlists.flatMap(playlist => playlist.ids));
+const groups = [...playlists.map(playlist => ({ ...playlist, videos: videos.filter(video => playlist.ids.includes(video.id)) })), { name: 'More from the channel', url: '', videos: videos.filter(video => !assigned.has(video.id)) }];
+---
+<Base title="Video archive" description="Watch all 14 Critical Latitude videos in the September 9, 2026 archive, with Gwen's reporting on earthquakes, volcanoes, climate, and coastal risk."><header class="page-heading topographic"><div class="container"><p class="eyebrow">WATCH THE RESEARCH</p><h1>The video archive</h1><p>Long investigations and focused updates, presented by Gwen. This archive includes the 14 videos cataloged on September 9, 2026.</p></div></header><div class="container editorial-section">{groups.map(group => <section class="video-section"><div class="section-title-row"><h2>{group.name}</h2>{group.url && <a class="text-link" href={group.url}>YouTube playlist ↗</a>}</div><div class="post-grid">{group.videos.map(video => <article class="video-card" data-video-id={video.id}><a href={`https://www.youtube.com/watch?v=${video.id}`}><div class="video-frame"><img src={`https://img.youtube.com/vi/${video.id}/hqdefault.jpg`} alt="" width="480" height="360" loading="lazy" /><span class="duration">{video.duration}</span></div><h3>{video.title}</h3></a><time datetime={video.date}>{formatDate(new Date(video.date))}</time></article>)}</div></section>)}</div></Base>

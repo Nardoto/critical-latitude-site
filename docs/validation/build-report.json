@@ -1,0 +1,97 @@
+{
+  "checkedAt": "2026-09-09T19:07:58.770Z",
+  "posts": [
+    {
+      "slug": "a-household-plan-beyond-the-emergency-bag",
+      "category": "preparedness",
+      "words": 838,
+      "numbers": []
+    },
+    {
+      "slug": "cascadia-the-distance-to-high-ground",
+      "category": "tsunamis",
+      "words": 806,
+      "numbers": [
+        "9",
+        "15",
+        "20",
+        "15-minute",
+        "58",
+        "80"
+      ]
+    },
+    {
+      "slug": "el-nino-what-a-record-claim-needs",
+      "category": "extreme-weather",
+      "words": 827,
+      "numbers": [
+        "155-year"
+      ]
+    },
+    {
+      "slug": "hayward-fault-without-the-countdown",
+      "category": "earthquakes",
+      "words": 831,
+      "numbers": [
+        "300",
+        "1868",
+        "1134",
+        "7.0",
+        "800",
+        "18,000",
+        "82",
+        "400",
+        "72"
+      ]
+    },
+    {
+      "slug": "haywired-six-weeks-without-water",
+      "category": "infrastructure",
+      "words": 868,
+      "numbers": [
+        "7.0",
+        "400"
+      ]
+    },
+    {
+      "slug": "krakatau-the-mountainside-and-the-sea",
+      "category": "volcanoes",
+      "words": 806,
+      "numbers": [
+        "22",
+        "2018",
+        "400",
+        "1883",
+        "230-foot"
+      ]
+    },
+    {
+      "slug": "nepal-when-detection-is-not-a-warning",
+      "category": "landslides-and-lahars",
+      "words": 812,
+      "numbers": [
+        "26",
+        "4.4",
+        "8",
+        "37",
+        "23,700-foot",
+        "100",
+        "41",
+        "300"
+      ]
+    },
+    {
+      "slug": "thwaites-reading-past-the-doomsday-label",
+      "category": "glaciers-and-sea-level",
+      "words": 837,
+      "numbers": []
+    }
+  ],
+  "htmlPages": 22,
+  "internalLinks": 516,
+  "videos": 14,
+  "externalImageHosts": [
+    "img.youtube.com"
+  ],
+  "errors": []
+}
